@@ -1,0 +1,91 @@
+VehicleID,Model,Variant,Segment,Year,VehicleType
+AVA2018YCEQCV07,Avanza,G,MPV,2018,Passenger
+AVA2019XHGMOK87,Avanza,G,MPV,2019,Passenger
+AVA2020FJDMHI32,Avanza,G,MPV,2020,Passenger
+AVA2021ALWMXF22,Avanza,G,MPV,2021,Passenger
+AVA2022TUNBZX72,Avanza,G,MPV,2022,Passenger
+AVA2023HUGZUI97,Avanza,G,MPV,2023,Passenger
+FOR2018DUJAOD15,Fortuner,V,SUV,2018,Passenger
+FOR2019WNNOLC65,Fortuner,V,SUV,2019,Passenger
+FOR2020HESLZE76,Fortuner,V,SUV,2020,Passenger
+FOR2021OWCIEX73,Fortuner,V,SUV,2021,Passenger
+FOR2022KPTFCG02,Fortuner,V,SUV,2022,Passenger
+FOR2023DLGMEU06,Fortuner,V,SUV,2023,Passenger
+INN2018HICTEI00,Innova,Q,MPV,2018,Passenger
+INN2019DOTLQE56,Innova,Q,MPV,2019,Passenger
+INN2020TGHRIV45,Innova,Q,MPV,2020,Passenger
+INN2021OKQBNU07,Innova,Q,MPV,2021,Passenger
+INN2022NZYBYL06,Innova,Q,MPV,2022,Passenger
+INN2023WHFOFT49,Innova,Q,MPV,2023,Passenger
+HIL2018RTQNCN33,Hilux,Double Cab,Pickup,2018,Commercial
+HIL2019DGLKQJ61,Hilux,Double Cab,Pickup,2019,Commercial
+HIL2020ADQHEB19,Hilux,Double Cab,Pickup,2020,Commercial
+HIL2021TZAHWT27,Hilux,Double Cab,Pickup,2021,Commercial
+HIL2022XDTLVQ42,Hilux,Double Cab,Pickup,2022,Commercial
+HIL2023PHKMMA30,Hilux,Double Cab,Pickup,2023,Commercial
+YAR2018HPBKWD60,Yaris,TRD,Hatchback,2018,Passenger
+YAR2019XFFURQ39,Yaris,TRD,Hatchback,2019,Passenger
+YAR2020NRZNBG06,Yaris,TRD,Hatchback,2020,Passenger
+YAR2021YFVNUO83,Yaris,TRD,Hatchback,2021,Passenger
+YAR2022LCRHLR05,Yaris,TRD,Hatchback,2022,Passenger
+YAR2023BFPOWA55,Yaris,TRD,Hatchback,2023,Passenger
+LAN2018OSFICJ71,Land Cruiser,VX,SUV,2018,Passenger
+LAN2019IFXMEW57,Land Cruiser,VX,SUV,2019,Passenger
+LAN2020ERMGOM65,Land Cruiser,VX,SUV,2020,Passenger
+LAN2021QAGNWA65,Land Cruiser,VX,SUV,2021,Passenger
+LAN2022OQWHGC75,Land Cruiser,VX,SUV,2022,Passenger
+LAN2023OBEICY63,Land Cruiser,VX,SUV,2023,Passenger
+HIA2018QTKNXL64,Hiace,Commuter,Van,2018,Commercial
+HIA2019GCXWLN62,Hiace,Commuter,Van,2019,Commercial
+HIA2020SCGAQA19,Hiace,Commuter,Van,2020,Commercial
+HIA2021XNNXCA04,Hiace,Commuter,Van,2021,Commercial
+HIA2022CRWZKV90,Hiace,Commuter,Van,2022,Commercial
+HIA2023DVRRTU31,Hiace,Commuter,Van,2023,Commercial
+RAI2018SOLDIJ90,Raize,GR Sport,SUV,2018,Passenger
+RAI2019MWMMIQ91,Raize,GR Sport,SUV,2019,Passenger
+RAI2020BNJFJL72,Raize,GR Sport,SUV,2020,Passenger
+RAI2021JXPLQS52,Raize,GR Sport,SUV,2021,Passenger
+RAI2022VEXTYG15,Raize,GR Sport,SUV,2022,Passenger
+RAI2023VYBBKO92,Raize,GR Sport,SUV,2023,Passenger
+RUS2018PCSOXO70,Rush,S,SUV,2018,Passenger
+RUS2019KQCWQV05,Rush,S,SUV,2019,Passenger
+RUS2020WALWTV92,Rush,S,SUV,2020,Passenger
+RUS2021ORQHHG13,Rush,S,SUV,2021,Passenger
+RUS2022MZSBBC13,Rush,S,SUV,2022,Passenger
+RUS2023ZVGYOI12,Rush,S,SUV,2023,Passenger
+AGY2018WRCLOI37,Agya,G,MPV,2018,Passenger
+AGY2019AAWDEO04,Agya,G,MPV,2019,Passenger
+AGY2020GFPMGL07,Agya,G,MPV,2020,Passenger
+AGY2021LADOTO69,Agya,G,MPV,2021,Passenger
+AGY2022ULQBIF98,Agya,G,MPV,2022,Passenger
+AGY2023YRKXRB12,Agya,G,MPV,2023,Passenger
+CAL2018GEKLWQ90,Calya,E,MPV,2018,Passenger
+CAL2019RBTODA92,Calya,E,MPV,2019,Passenger
+CAL2020ILIUQU43,Calya,E,MPV,2020,Passenger
+CAL2021CCNTFS07,Calya,E,MPV,2021,Passenger
+CAL2022LBDWTD46,Calya,E,MPV,2022,Passenger
+CAL2023UBTGOI35,Calya,E,MPV,2023,Passenger
+VIO2018QHCWEY48,Vios,G,Sedan,2018,Passenger
+VIO2019YZCXXU25,Vios,G,Sedan,2019,Passenger
+VIO2020ZUZOCB75,Vios,G,Sedan,2020,Passenger
+VIO2021VLBWJK14,Vios,G,Sedan,2021,Passenger
+VIO2022JWCNSA34,Vios,G,Sedan,2022,Passenger
+VIO2023QQTJGH54,Vios,G,Sedan,2023,Passenger
+CAM2018DCLDKH51,Camry,Hybrid,Sedan,2018,Passenger
+CAM2019WMCBIT71,Camry,Hybrid,Sedan,2019,Passenger
+CAM2020EEYQSM08,Camry,Hybrid,Sedan,2020,Passenger
+CAM2021THVIGG58,Camry,Hybrid,Sedan,2021,Passenger
+CAM2022SFQWPT07,Camry,Hybrid,Sedan,2022,Passenger
+CAM2023VIHAPZ15,Camry,Hybrid,Sedan,2023,Passenger
+COR2018CANHTC79,Corolla Altis,V,Sedan,2018,Passenger
+COR2019YJZKSU46,Corolla Altis,V,Sedan,2019,Passenger
+COR2020GMGJXC67,Corolla Altis,V,Sedan,2020,Passenger
+COR2021KHESOQ70,Corolla Altis,V,Sedan,2021,Passenger
+COR2022NPJJVI29,Corolla Altis,V,Sedan,2022,Passenger
+COR2023QABEXL90,Corolla Altis,V,Sedan,2023,Passenger
+HIL2018OTNLJT46,Hilux,Single Cab,Pickup,2018,Commercial
+HIL2019VAEBFX57,Hilux,Single Cab,Pickup,2019,Commercial
+HIL2020WGDWDZ03,Hilux,Single Cab,Pickup,2020,Commercial
+HIL2021UTWJXS72,Hilux,Single Cab,Pickup,2021,Commercial
+HIL2022FFGCIO90,Hilux,Single Cab,Pickup,2022,Commercial
+HIL2023QETYWI38,Hilux,Single Cab,Pickup,2023,Commercial

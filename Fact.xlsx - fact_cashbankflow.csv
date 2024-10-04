@@ -1,0 +1,1001 @@
+BranchID,DateKey,TransactionAmount,CashDiscrepancy,TransactionType,TransactionGroup,SuspectTransactionFlag
+A030,1/7/2024,"  3,505,255.17 ",FALSE,Deposit,Government Subsidy,FALSE
+A028,3/9/2024,"  1,696,648.24 ",FALSE,Deposit,Credit Company Payment,FALSE
+A003,23/7/2024,"  10,627,762.70 ",TRUE,Deposit,Credit Company Payment,TRUE
+A010,23/8/2024,"  2,996,257.58 ",FALSE,Deposit,Government Subsidy,FALSE
+A004,8/9/2024,"  7,645,057.47 ",FALSE,Deposit,Customer Payment,FALSE
+A028,17/7/2024,"  8,538,868.32 ",FALSE,Deposit,Government Subsidy,TRUE
+A020,28/7/2024,"  10,856,347.97 ",FALSE,Withdrawal,Operational Cost,TRUE
+A033,14/9/2024,"  3,999,852.34 ",FALSE,Withdrawal,Operational Cost,FALSE
+A020,23/8/2024,"  6,643,381.35 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A022,3/8/2024,"  8,265,803.15 ",FALSE,Withdrawal,Operational Cost,TRUE
+A028,8/7/2024,"  690,570.37 ",FALSE,Withdrawal,Refund,TRUE
+A032,25/9/2024,"  1,258,265.59 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A022,7/8/2024,"  7,854,533.67 ",FALSE,Deposit,Customer Payment,FALSE
+A028,25/7/2024,"  8,179,214.90 ",FALSE,Deposit,Customer Payment,TRUE
+A016,29/7/2024,"  5,681,023.54 ",FALSE,Deposit,Customer Payment,FALSE
+A001,8/8/2024,"  9,046,574.00 ",TRUE,Withdrawal,Refund,TRUE
+A019,22/8/2024,"  6,356,217.93 ",FALSE,Deposit,Credit Company Payment,FALSE
+A034,31/8/2024,"  6,339,534.72 ",FALSE,Withdrawal,Refund,FALSE
+A002,12/9/2024,"  3,712,329.93 ",FALSE,Deposit,Customer Payment,FALSE
+A013,30/9/2024,"  4,357,012.03 ",TRUE,Deposit,Credit Company Payment,FALSE
+A004,12/7/2024,"  4,970,590.39 ",FALSE,Withdrawal,Operational Cost,FALSE
+A003,20/8/2024,"  5,931,100.22 ",FALSE,Deposit,Credit Company Payment,FALSE
+A018,20/7/2024,"  4,866,178.51 ",TRUE,Withdrawal,Supplier Payment,FALSE
+A032,25/8/2024,"  9,273,111.39 ",FALSE,Withdrawal,Operational Cost,TRUE
+A023,30/7/2024,"  6,375,855.56 ",FALSE,Withdrawal,Refund,FALSE
+A014,13/7/2024,"  2,858,800.87 ",FALSE,Withdrawal,Operational Cost,FALSE
+A011,1/9/2024,"  3,941,667.58 ",FALSE,Withdrawal,Operational Cost,FALSE
+A007,14/8/2024,"  6,507,484.94 ",TRUE,Deposit,Customer Payment,FALSE
+A004,26/9/2024,"  7,591,490.21 ",FALSE,Withdrawal,Refund,FALSE
+A006,13/7/2024,"  10,068,655.35 ",FALSE,Deposit,Government Subsidy,TRUE
+A012,7/9/2024,"  2,164,129.30 ",FALSE,Deposit,Credit Company Payment,FALSE
+A017,26/9/2024,"  3,852,426.85 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A007,30/7/2024,"  1,535,393.15 ",FALSE,Withdrawal,Operational Cost,FALSE
+A011,16/9/2024,"  6,258,072.28 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A001,22/9/2024,"  11,040,974.65 ",FALSE,Withdrawal,Refund,TRUE
+A015,13/7/2024,"  7,332,791.62 ",FALSE,Deposit,Credit Company Payment,FALSE
+A013,31/7/2024,"  7,404,849.64 ",FALSE,Withdrawal,Operational Cost,FALSE
+A021,28/8/2024,"  5,807,372.38 ",FALSE,Withdrawal,Refund,FALSE
+A003,30/8/2024,"  6,273,113.81 ",FALSE,Deposit,Government Subsidy,FALSE
+A002,9/8/2024,"  4,005,924.38 ",FALSE,Withdrawal,Operational Cost,FALSE
+A034,27/7/2024,"  11,712,701.01 ",FALSE,Deposit,Customer Payment,TRUE
+A034,26/7/2024,"  10,068,498.66 ",FALSE,Deposit,Government Subsidy,TRUE
+A033,20/9/2024,"  7,630,578.30 ",FALSE,Deposit,Customer Payment,FALSE
+A034,25/7/2024,"  8,093,740.24 ",FALSE,Withdrawal,Operational Cost,TRUE
+A001,6/7/2024,"  10,934,737.03 ",FALSE,Deposit,Government Subsidy,TRUE
+A016,11/8/2024,"  2,480,751.52 ",FALSE,Deposit,Government Subsidy,FALSE
+A025,1/7/2024,"  7,642,398.72 ",FALSE,Deposit,Customer Payment,FALSE
+A033,23/9/2024,"  6,041,655.14 ",FALSE,Deposit,Customer Payment,FALSE
+A011,23/9/2024,"  5,839,735.20 ",FALSE,Deposit,Government Subsidy,FALSE
+A002,27/7/2024,"  6,060,683.40 ",FALSE,Deposit,Credit Company Payment,FALSE
+A027,30/8/2024,"  7,535,628.98 ",FALSE,Deposit,Credit Company Payment,FALSE
+A028,21/8/2024,"  2,115,770.15 ",FALSE,Deposit,Customer Payment,FALSE
+A032,27/7/2024,"  121,675.96 ",FALSE,Deposit,Customer Payment,TRUE
+A035,28/9/2024,"  6,440,625.94 ",TRUE,Deposit,Credit Company Payment,FALSE
+A016,15/7/2024,"  3,989,946.48 ",FALSE,Withdrawal,Operational Cost,FALSE
+A023,21/7/2024,"  5,414,729.78 ",FALSE,Withdrawal,Operational Cost,FALSE
+A025,17/8/2024,"  6,311,798.16 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,1/8/2024,"  6,328,491.58 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,2/9/2024,"  9,002,168.15 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A034,28/7/2024,"  4,848,902.44 ",FALSE,Deposit,Government Subsidy,FALSE
+A019,4/9/2024,"  243,958.97 ",FALSE,Deposit,Customer Payment,TRUE
+A020,24/7/2024,"  2,246,136.40 ",TRUE,Withdrawal,Operational Cost,FALSE
+A026,7/7/2024,"  5,918,745.16 ",FALSE,Withdrawal,Refund,FALSE
+A005,21/7/2024,"  2,206,848.41 ",FALSE,Deposit,Customer Payment,FALSE
+A034,4/8/2024,"  11,753,201.94 ",FALSE,Withdrawal,Operational Cost,TRUE
+A010,30/7/2024,"  8,361,804.07 ",FALSE,Withdrawal,Operational Cost,TRUE
+A035,23/9/2024,"  4,488,698.63 ",FALSE,Deposit,Government Subsidy,FALSE
+A024,18/7/2024,"  7,857,742.91 ",FALSE,Deposit,Credit Company Payment,FALSE
+A031,7/7/2024,"  6,718,037.25 ",FALSE,Deposit,Government Subsidy,FALSE
+A009,2/9/2024,"  8,260,978.00 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A034,21/7/2024,"  6,514,691.03 ",FALSE,Deposit,Credit Company Payment,FALSE
+A032,3/8/2024,"  2,170,929.10 ",FALSE,Deposit,Government Subsidy,FALSE
+A010,30/9/2024,"  3,806,470.41 ",FALSE,Deposit,Credit Company Payment,FALSE
+A017,7/9/2024,"  6,679,460.63 ",FALSE,Deposit,Customer Payment,FALSE
+A033,17/9/2024,"  10,156,377.56 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A026,12/9/2024,"  10,934,131.06 ",FALSE,Deposit,Customer Payment,TRUE
+A006,11/7/2024,"  12,156,209.81 ",FALSE,Withdrawal,Operational Cost,TRUE
+A011,15/8/2024,"  3,842,310.67 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A032,7/7/2024,"  8,367,628.24 ",FALSE,Deposit,Customer Payment,TRUE
+A001,27/7/2024,"  2,891,661.74 ",FALSE,Withdrawal,Operational Cost,FALSE
+A002,20/8/2024,"  2,771,350.32 ",FALSE,Deposit,Government Subsidy,FALSE
+A014,22/8/2024,"  7,154,908.24 ",FALSE,Deposit,Customer Payment,FALSE
+A019,7/9/2024,"  8,039,378.50 ",FALSE,Deposit,Government Subsidy,TRUE
+A021,4/9/2024,"  2,568,268.42 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,27/9/2024,"  6,852,398.49 ",FALSE,Deposit,Credit Company Payment,FALSE
+A032,15/9/2024,"  4,552,994.09 ",FALSE,Deposit,Credit Company Payment,FALSE
+A029,21/7/2024,"  7,390,476.32 ",FALSE,Withdrawal,Refund,FALSE
+A029,11/7/2024,"  11,438,109.46 ",FALSE,Withdrawal,Refund,TRUE
+A029,17/9/2024,"  8,439,886.46 ",FALSE,Deposit,Government Subsidy,TRUE
+A002,29/7/2024,"  5,994,979.61 ",FALSE,Withdrawal,Operational Cost,FALSE
+A031,19/9/2024,"  4,474,190.01 ",FALSE,Deposit,Customer Payment,FALSE
+A028,4/8/2024,"  7,553,001.11 ",FALSE,Deposit,Customer Payment,FALSE
+A033,6/8/2024,"  1,955,967.21 ",FALSE,Deposit,Government Subsidy,FALSE
+A017,25/8/2024,"  5,198,336.36 ",FALSE,Deposit,Credit Company Payment,FALSE
+A009,3/7/2024,"  6,096,582.75 ",FALSE,Withdrawal,Operational Cost,FALSE
+A009,22/7/2024,"  4,526,297.65 ",FALSE,Deposit,Government Subsidy,FALSE
+A016,25/8/2024,"  5,811,768.61 ",FALSE,Withdrawal,Operational Cost,FALSE
+A011,4/9/2024,"  8,665,642.22 ",FALSE,Withdrawal,Operational Cost,TRUE
+A033,27/8/2024,"  935,210.13 ",FALSE,Withdrawal,Operational Cost,TRUE
+A019,24/7/2024,"  7,871,044.55 ",FALSE,Deposit,Customer Payment,FALSE
+A015,13/7/2024,"  5,667,145.94 ",FALSE,Deposit,Credit Company Payment,FALSE
+A009,11/8/2024,"  4,926,784.02 ",FALSE,Deposit,Credit Company Payment,FALSE
+A016,25/8/2024,"  6,029,223.56 ",FALSE,Withdrawal,Refund,FALSE
+A004,20/8/2024,"  5,953,633.18 ",FALSE,Deposit,Government Subsidy,FALSE
+A007,7/8/2024,"  6,407,491.28 ",FALSE,Withdrawal,Operational Cost,FALSE
+A003,15/7/2024,"  9,840,078.41 ",FALSE,Withdrawal,Refund,TRUE
+A013,25/7/2024,"  3,922,859.56 ",FALSE,Withdrawal,Refund,FALSE
+A035,11/8/2024,"  6,836,547.99 ",FALSE,Deposit,Government Subsidy,FALSE
+A013,21/9/2024,"  2,545,833.38 ",FALSE,Withdrawal,Operational Cost,FALSE
+A016,30/9/2024,"  368,428.33 ",FALSE,Deposit,Government Subsidy,TRUE
+A012,15/9/2024,"  1,278,297.87 ",FALSE,Deposit,Credit Company Payment,FALSE
+A006,16/8/2024,"  6,468,213.69 ",FALSE,Withdrawal,Operational Cost,FALSE
+A014,4/9/2024,"  9,541,073.31 ",FALSE,Deposit,Government Subsidy,TRUE
+A001,20/7/2024,"  3,826,035.31 ",TRUE,Deposit,Credit Company Payment,FALSE
+A034,1/9/2024,"  9,558,366.88 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A023,14/7/2024,"  5,875,708.96 ",FALSE,Withdrawal,Refund,FALSE
+A031,29/7/2024,"  1,868,550.53 ",FALSE,Withdrawal,Operational Cost,FALSE
+A016,13/7/2024,"  6,661,809.80 ",FALSE,Withdrawal,Refund,FALSE
+A022,15/8/2024,"  10,691,054.83 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A033,2/7/2024,"  2,135,846.04 ",FALSE,Withdrawal,Operational Cost,FALSE
+A016,13/7/2024,"  1,436,427.72 ",FALSE,Deposit,Customer Payment,FALSE
+A016,24/8/2024,"  3,316,242.45 ",FALSE,Withdrawal,Operational Cost,FALSE
+A015,17/7/2024,"  9,290,908.63 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A027,9/7/2024,"  3,079,439.68 ",FALSE,Deposit,Credit Company Payment,FALSE
+A031,1/8/2024,"  3,613,039.31 ",FALSE,Withdrawal,Refund,FALSE
+A023,7/7/2024,"  8,462,680.67 ",FALSE,Deposit,Credit Company Payment,TRUE
+A023,13/8/2024,"  6,670,885.70 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A001,17/7/2024,"  7,206,347.03 ",FALSE,Deposit,Credit Company Payment,FALSE
+A003,19/7/2024,"  3,683,644.81 ",FALSE,Withdrawal,Operational Cost,FALSE
+A015,20/9/2024,"  8,895,773.10 ",FALSE,Withdrawal,Refund,TRUE
+A033,26/7/2024,"  15,453,562.23 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A022,22/9/2024,"  2,393,174.26 ",FALSE,Deposit,Customer Payment,FALSE
+A019,27/9/2024,"  8,203,233.62 ",FALSE,Deposit,Customer Payment,TRUE
+A006,13/7/2024,"  5,048,052.09 ",FALSE,Deposit,Credit Company Payment,FALSE
+A026,4/7/2024,"  3,393,175.33 ",FALSE,Deposit,Customer Payment,FALSE
+A030,6/7/2024,"  6,553,408.27 ",FALSE,Deposit,Government Subsidy,FALSE
+A014,9/9/2024,"  3,238,899.90 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A002,31/8/2024,"  1,993,624.25 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A010,4/8/2024,"  4,988,467.38 ",FALSE,Deposit,Credit Company Payment,FALSE
+A014,14/7/2024,"  4,156,770.07 ",FALSE,Deposit,Customer Payment,FALSE
+A023,21/7/2024,"  5,672,782.51 ",FALSE,Deposit,Credit Company Payment,FALSE
+A012,31/7/2024,"  5,037,663.79 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,24/7/2024,"  8,479,705.52 ",FALSE,Deposit,Government Subsidy,TRUE
+A027,10/9/2024,"  6,835,870.69 ",FALSE,Deposit,Government Subsidy,FALSE
+A036,21/9/2024,"  6,964,204.24 ",FALSE,Deposit,Government Subsidy,FALSE
+A013,5/7/2024,"  4,954,083.80 ",FALSE,Deposit,Government Subsidy,FALSE
+A005,16/7/2024,"  5,544,025.40 ",FALSE,Withdrawal,Operational Cost,FALSE
+A023,12/8/2024,"  3,268,887.68 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A025,11/7/2024,"  8,753,401.72 ",FALSE,Deposit,Government Subsidy,TRUE
+A029,26/8/2024,"  4,606,406.59 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A025,30/7/2024,"  9,442,866.58 ",FALSE,Deposit,Customer Payment,TRUE
+A006,19/7/2024,"  6,533,430.30 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,22/9/2024,"  735,849.44 ",FALSE,Withdrawal,Refund,TRUE
+A012,23/9/2024,"  4,748,371.73 ",FALSE,Deposit,Credit Company Payment,FALSE
+A022,22/9/2024,"  8,652,630.87 ",FALSE,Withdrawal,Operational Cost,TRUE
+A010,4/8/2024,"  609,537.18 ",FALSE,Deposit,Credit Company Payment,TRUE
+A008,28/9/2024,"  5,191,667.45 ",FALSE,Withdrawal,Refund,FALSE
+A009,10/8/2024,"  7,546,214.26 ",FALSE,Withdrawal,Operational Cost,FALSE
+A008,8/7/2024,"  1,927,373.56 ",FALSE,Withdrawal,Refund,FALSE
+A031,10/8/2024,"  6,321,982.28 ",FALSE,Withdrawal,Refund,FALSE
+A012,24/9/2024,"  10,241,575.51 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A021,16/7/2024,"  1,362,720.70 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,2/9/2024,"  10,413,289.02 ",FALSE,Deposit,Government Subsidy,TRUE
+A034,8/8/2024,"  1,702,838.05 ",FALSE,Deposit,Credit Company Payment,FALSE
+A027,2/8/2024,"  4,407,018.21 ",FALSE,Deposit,Customer Payment,FALSE
+A024,2/8/2024,"  8,382,585.11 ",FALSE,Withdrawal,Operational Cost,TRUE
+A012,20/7/2024,"  1,320,783.92 ",FALSE,Deposit,Credit Company Payment,FALSE
+A017,7/7/2024,"  8,224,042.15 ",FALSE,Deposit,Customer Payment,TRUE
+A011,1/8/2024,"  5,183,410.71 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A029,10/8/2024,"  1,950,419.70 ",FALSE,Deposit,Credit Company Payment,FALSE
+A022,2/9/2024,"  4,636,396.77 ",FALSE,Deposit,Customer Payment,FALSE
+A024,27/7/2024,"  157,434.19 ",TRUE,Deposit,Customer Payment,TRUE
+A011,2/7/2024,"  8,821,441.00 ",FALSE,Deposit,Customer Payment,TRUE
+A026,16/7/2024,"  5,878,758.31 ",FALSE,Withdrawal,Operational Cost,FALSE
+A028,5/8/2024,"  9,699,754.06 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A034,11/7/2024,"  3,159,707.27 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A020,31/8/2024,"  2,868,452.23 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A026,15/7/2024,"  7,825,454.26 ",FALSE,Withdrawal,Refund,FALSE
+A001,19/9/2024,"  9,418,501.67 ",FALSE,Deposit,Government Subsidy,TRUE
+A022,13/7/2024,"  5,079,024.41 ",FALSE,Deposit,Government Subsidy,FALSE
+A012,31/7/2024,"  5,732,123.01 ",FALSE,Withdrawal,Refund,FALSE
+A002,29/8/2024,"  7,425,742.56 ",FALSE,Deposit,Credit Company Payment,FALSE
+A024,21/8/2024,"  6,062,950.08 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A005,16/9/2024,"  8,084,334.19 ",TRUE,Withdrawal,Operational Cost,TRUE
+A013,2/7/2024,"  4,864,141.11 ",FALSE,Deposit,Credit Company Payment,FALSE
+A001,20/8/2024,"  1,264,515.74 ",FALSE,Withdrawal,Refund,FALSE
+A008,5/9/2024,"  6,590,397.04 ",FALSE,Deposit,Customer Payment,FALSE
+A017,20/7/2024,"  8,348,345.06 ",FALSE,Deposit,Government Subsidy,TRUE
+A019,26/8/2024,"  2,270,466.39 ",FALSE,Withdrawal,Refund,FALSE
+A015,7/9/2024,"  3,436,382.12 ",FALSE,Deposit,Customer Payment,FALSE
+A028,24/7/2024,"  3,685,116.02 ",FALSE,Withdrawal,Refund,FALSE
+A029,29/7/2024,"  2,769,740.28 ",FALSE,Deposit,Government Subsidy,FALSE
+A035,22/9/2024,"  8,778,634.62 ",FALSE,Withdrawal,Refund,TRUE
+A007,25/7/2024,"  8,058,367.28 ",FALSE,Withdrawal,Refund,TRUE
+A028,2/8/2024,"  2,021,500.73 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,22/8/2024,"  2,996,456.60 ",FALSE,Deposit,Customer Payment,FALSE
+A026,11/8/2024,"  6,101,014.78 ",FALSE,Deposit,Customer Payment,FALSE
+A036,17/7/2024,"  11,460,042.40 ",FALSE,Withdrawal,Refund,TRUE
+A034,19/9/2024,"  2,736,369.87 ",FALSE,Deposit,Customer Payment,FALSE
+A031,15/8/2024,"  1,147,524.54 ",FALSE,Deposit,Customer Payment,FALSE
+A015,7/7/2024,"  10,310,304.54 ",FALSE,Withdrawal,Refund,TRUE
+A015,26/7/2024,"  3,916,956.80 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A005,3/7/2024,"  8,511,281.90 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A012,7/7/2024,"  7,755,650.03 ",FALSE,Withdrawal,Refund,FALSE
+A022,24/8/2024,"  5,605,760.49 ",FALSE,Withdrawal,Refund,FALSE
+A030,8/7/2024,"  3,512,847.20 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A003,16/9/2024,"  3,604,620.27 ",FALSE,Deposit,Customer Payment,FALSE
+A015,1/9/2024,"  11,831,731.02 ",FALSE,Deposit,Credit Company Payment,TRUE
+A021,1/8/2024,"  4,718,166.80 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,26/9/2024,"  7,372,544.51 ",FALSE,Withdrawal,Operational Cost,FALSE
+A007,15/9/2024,"  10,532,890.41 ",FALSE,Deposit,Government Subsidy,TRUE
+A015,9/9/2024,"  2,336,834.05 ",FALSE,Withdrawal,Refund,FALSE
+A012,5/7/2024,"  4,151,673.46 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A032,5/8/2024,"  358,134.29 ",FALSE,Deposit,Customer Payment,TRUE
+A030,4/8/2024,"  8,188,595.83 ",FALSE,Deposit,Customer Payment,TRUE
+A016,7/8/2024,"  3,076,001.22 ",FALSE,Deposit,Credit Company Payment,FALSE
+A013,22/9/2024,"  9,099,492.93 ",FALSE,Deposit,Government Subsidy,TRUE
+A012,20/7/2024,"  6,793,491.45 ",FALSE,Withdrawal,Refund,FALSE
+A001,9/8/2024,"  3,264,355.88 ",TRUE,Deposit,Government Subsidy,FALSE
+A035,5/8/2024,"  8,352,353.20 ",FALSE,Deposit,Customer Payment,TRUE
+A027,15/9/2024,"  8,312,581.20 ",FALSE,Deposit,Customer Payment,TRUE
+A034,10/7/2024,"  3,611,711.70 ",FALSE,Withdrawal,Refund,FALSE
+A016,17/8/2024,"  7,591,767.51 ",FALSE,Withdrawal,Refund,FALSE
+A013,2/9/2024,"  11,118,817.19 ",FALSE,Deposit,Credit Company Payment,TRUE
+A003,7/9/2024,"  2,472,317.40 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A035,6/9/2024,"  6,215,399.62 ",FALSE,Withdrawal,Refund,FALSE
+A024,31/7/2024,"  4,318,064.03 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,18/8/2024,"  8,056,335.81 ",TRUE,Withdrawal,Operational Cost,TRUE
+A023,22/8/2024,"  8,595,374.13 ",FALSE,Withdrawal,Refund,TRUE
+A005,29/8/2024,"  1,963,925.12 ",FALSE,Deposit,Customer Payment,FALSE
+A031,22/9/2024,"  4,715,308.70 ",FALSE,Deposit,Government Subsidy,FALSE
+A005,26/8/2024,"  6,486,388.79 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A011,23/9/2024,"  5,189,854.93 ",FALSE,Withdrawal,Operational Cost,FALSE
+A003,18/9/2024,"  9,507,620.72 ",FALSE,Deposit,Government Subsidy,TRUE
+A007,20/9/2024,"  9,066,531.35 ",FALSE,Deposit,Credit Company Payment,TRUE
+A018,31/8/2024,"  5,353,326.30 ",FALSE,Withdrawal,Operational Cost,FALSE
+A023,24/7/2024,"  2,817,084.02 ",FALSE,Deposit,Customer Payment,FALSE
+A032,20/9/2024,"  1,233,144.70 ",FALSE,Deposit,Government Subsidy,FALSE
+A009,19/8/2024,"  4,549,516.09 ",FALSE,Deposit,Government Subsidy,FALSE
+A017,28/9/2024,"  3,724,747.41 ",FALSE,Withdrawal,Refund,FALSE
+A007,20/8/2024,"  8,488,930.79 ",FALSE,Deposit,Government Subsidy,TRUE
+A019,11/7/2024,"  9,607,213.60 ",FALSE,Withdrawal,Refund,TRUE
+A018,9/9/2024,"  7,815,485.17 ",FALSE,Deposit,Government Subsidy,FALSE
+A021,27/9/2024,"  4,889,295.94 ",FALSE,Deposit,Customer Payment,FALSE
+A004,25/8/2024,"  4,126,539.22 ",FALSE,Deposit,Customer Payment,FALSE
+A008,17/7/2024,"  6,649,697.67 ",TRUE,Withdrawal,Refund,FALSE
+A035,3/8/2024,"  10,424,038.18 ",FALSE,Withdrawal,Operational Cost,TRUE
+A029,3/9/2024,"  2,549,955.16 ",FALSE,Withdrawal,Operational Cost,FALSE
+A016,13/7/2024,"  8,465,558.96 ",FALSE,Withdrawal,Refund,TRUE
+A006,14/9/2024,"  2,504,350.30 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A016,19/8/2024,"  5,758,785.77 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A028,2/8/2024,"  7,273,841.04 ",FALSE,Withdrawal,Operational Cost,FALSE
+A006,16/8/2024,"  8,439,548.91 ",FALSE,Deposit,Credit Company Payment,TRUE
+A016,7/7/2024,"  360,615.09 ",FALSE,Deposit,Customer Payment,TRUE
+A028,12/9/2024,"  4,645,178.55 ",FALSE,Withdrawal,Operational Cost,FALSE
+A027,21/8/2024,"  6,323,025.58 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A022,2/7/2024,"  3,941,642.43 ",FALSE,Withdrawal,Refund,FALSE
+A029,29/7/2024,"  8,753,886.24 ",FALSE,Deposit,Customer Payment,TRUE
+A034,26/8/2024,"  4,652,603.90 ",FALSE,Deposit,Government Subsidy,FALSE
+A013,15/8/2024,"  5,128,183.59 ",FALSE,Deposit,Customer Payment,FALSE
+A008,30/7/2024,"  11,418,724.98 ",FALSE,Deposit,Customer Payment,TRUE
+A036,13/8/2024,"  10,985,666.52 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A007,9/9/2024,"  4,295,614.42 ",FALSE,Deposit,Customer Payment,FALSE
+A028,8/9/2024,"  4,640,318.96 ",TRUE,Withdrawal,Refund,FALSE
+A012,4/8/2024,"  5,362,037.29 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A011,23/9/2024,"  3,301,765.34 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,5/7/2024,"  1,332,151.73 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,19/8/2024,"  10,547,022.12 ",FALSE,Deposit,Government Subsidy,TRUE
+A030,5/9/2024,"  8,920,185.22 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A004,25/9/2024,"  5,045,840.11 ",FALSE,Withdrawal,Refund,FALSE
+A026,14/8/2024,"  10,017,953.18 ",FALSE,Deposit,Government Subsidy,TRUE
+A028,2/8/2024,"  5,726,838.15 ",FALSE,Deposit,Credit Company Payment,FALSE
+A009,8/7/2024,"  9,356,588.40 ",FALSE,Deposit,Government Subsidy,TRUE
+A022,23/9/2024,"  5,637,395.86 ",FALSE,Withdrawal,Refund,FALSE
+A019,29/9/2024,"  5,072,127.11 ",FALSE,Withdrawal,Operational Cost,FALSE
+A018,17/8/2024,"  7,666,424.56 ",FALSE,Withdrawal,Operational Cost,FALSE
+A015,1/9/2024,"  847,636.55 ",FALSE,Withdrawal,Operational Cost,TRUE
+A018,7/7/2024,"  7,365,619.40 ",FALSE,Deposit,Government Subsidy,FALSE
+A020,7/7/2024,"  8,374,264.25 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A021,8/9/2024,"  2,429,669.96 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,15/7/2024,"  976,816.38 ",FALSE,Deposit,Credit Company Payment,TRUE
+A017,22/9/2024,"  8,083,632.38 ",FALSE,Deposit,Government Subsidy,TRUE
+A008,12/7/2024,"  6,930,921.64 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A019,15/8/2024,"  577,736.52 ",FALSE,Withdrawal,Refund,TRUE
+A008,1/7/2024,"  4,746,376.98 ",FALSE,Deposit,Customer Payment,FALSE
+A023,3/8/2024,"  7,643,776.39 ",TRUE,Withdrawal,Operational Cost,FALSE
+A010,17/9/2024,"  3,009,770.37 ",FALSE,Withdrawal,Operational Cost,FALSE
+A015,7/9/2024,"  6,068,940.91 ",FALSE,Withdrawal,Operational Cost,FALSE
+A022,14/9/2024,"  1,075,977.29 ",TRUE,Withdrawal,Supplier Payment,FALSE
+A030,11/9/2024,"  5,174,759.01 ",FALSE,Withdrawal,Refund,FALSE
+A001,2/7/2024,"  3,352,362.86 ",FALSE,Withdrawal,Refund,FALSE
+A006,25/7/2024,"  5,526,902.26 ",FALSE,Deposit,Government Subsidy,FALSE
+A007,6/7/2024,"  8,879,804.89 ",FALSE,Deposit,Credit Company Payment,TRUE
+A031,23/9/2024,"  7,156,880.62 ",FALSE,Withdrawal,Refund,FALSE
+A001,2/7/2024,"  6,095,458.91 ",FALSE,Deposit,Government Subsidy,FALSE
+A014,7/9/2024,"  10,556,937.09 ",FALSE,Deposit,Government Subsidy,TRUE
+A025,30/9/2024,"  6,218,354.86 ",FALSE,Deposit,Customer Payment,FALSE
+A035,26/7/2024,"  4,192,946.69 ",FALSE,Deposit,Credit Company Payment,FALSE
+A002,14/8/2024,"  9,064,564.35 ",FALSE,Deposit,Government Subsidy,TRUE
+A011,10/7/2024,"  7,787,735.89 ",FALSE,Withdrawal,Refund,FALSE
+A034,22/7/2024,"  8,098,838.24 ",FALSE,Withdrawal,Operational Cost,TRUE
+A015,30/9/2024,"  4,809,170.70 ",FALSE,Withdrawal,Refund,FALSE
+A011,5/8/2024,"  10,585,746.45 ",FALSE,Withdrawal,Operational Cost,TRUE
+A017,2/9/2024,"  3,921,454.92 ",FALSE,Deposit,Customer Payment,FALSE
+A016,6/7/2024,"  8,310,841.90 ",FALSE,Deposit,Customer Payment,TRUE
+A002,15/9/2024,"  4,628,666.01 ",FALSE,Withdrawal,Operational Cost,FALSE
+A017,29/7/2024,"  6,514,710.43 ",FALSE,Withdrawal,Refund,FALSE
+A018,24/9/2024,"  6,108,350.95 ",FALSE,Deposit,Credit Company Payment,FALSE
+A023,29/8/2024,"  6,906,680.19 ",TRUE,Deposit,Government Subsidy,FALSE
+A033,22/9/2024,"  7,695,872.73 ",FALSE,Deposit,Credit Company Payment,FALSE
+A010,9/9/2024,"  7,877,702.44 ",FALSE,Deposit,Customer Payment,FALSE
+A008,19/7/2024,"  7,980,666.22 ",TRUE,Withdrawal,Operational Cost,FALSE
+A030,14/7/2024,"  12,402,332.32 ",FALSE,Deposit,Government Subsidy,TRUE
+A007,22/9/2024,"  5,347,379.56 ",FALSE,Deposit,Customer Payment,FALSE
+A031,16/9/2024,"  1,661,008.74 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A024,11/8/2024,"  10,953,279.80 ",FALSE,Deposit,Customer Payment,TRUE
+A031,12/8/2024,"  9,867,027.16 ",FALSE,Deposit,Customer Payment,TRUE
+A008,10/7/2024,"  10,271,654.28 ",FALSE,Deposit,Government Subsidy,TRUE
+A013,20/9/2024,"  3,677,335.19 ",FALSE,Deposit,Customer Payment,FALSE
+A018,26/7/2024,"  15,788,349.61 ",FALSE,Deposit,Credit Company Payment,TRUE
+A018,16/7/2024,"  8,842,394.29 ",FALSE,Deposit,Customer Payment,TRUE
+A013,28/9/2024,"  6,271,602.31 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A021,19/7/2024,"  6,260,773.75 ",FALSE,Withdrawal,Operational Cost,FALSE
+A009,3/7/2024,"  8,016,074.56 ",FALSE,Deposit,Government Subsidy,TRUE
+A035,6/8/2024,"  2,793,376.57 ",FALSE,Withdrawal,Operational Cost,FALSE
+A019,28/9/2024,"  6,860,183.25 ",TRUE,Withdrawal,Operational Cost,FALSE
+A006,17/9/2024,"  6,889,355.03 ",FALSE,Withdrawal,Refund,FALSE
+A031,30/9/2024,"  7,453,561.79 ",FALSE,Deposit,Government Subsidy,FALSE
+A018,16/9/2024,"  5,864,358.06 ",FALSE,Withdrawal,Refund,FALSE
+A014,20/7/2024,"  3,855,054.80 ",FALSE,Withdrawal,Refund,FALSE
+A010,24/8/2024,"  723,751.56 ",FALSE,Withdrawal,Refund,TRUE
+A025,29/9/2024,"  8,476,253.96 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A020,2/9/2024,"  11,461,874.86 ",FALSE,Deposit,Government Subsidy,TRUE
+A024,30/7/2024,"  7,164,943.24 ",FALSE,Deposit,Credit Company Payment,FALSE
+A009,16/8/2024,"  10,854,982.22 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A026,2/9/2024,"  4,030,843.93 ",FALSE,Deposit,Credit Company Payment,FALSE
+A035,10/8/2024,"  5,316,751.22 ",FALSE,Withdrawal,Operational Cost,FALSE
+A011,9/8/2024,"  2,672,933.87 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A013,25/7/2024,"  4,089,322.64 ",FALSE,Deposit,Credit Company Payment,FALSE
+A013,15/9/2024,"  5,312,764.05 ",FALSE,Deposit,Government Subsidy,FALSE
+A036,18/7/2024,"  4,534,961.22 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A026,14/7/2024,"  9,110,080.13 ",FALSE,Withdrawal,Refund,TRUE
+A004,15/8/2024,"  6,623,393.58 ",FALSE,Deposit,Credit Company Payment,FALSE
+A020,26/8/2024,"  9,236,165.94 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A022,20/8/2024,"  7,632,577.03 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,3/9/2024,"  7,258,457.89 ",FALSE,Withdrawal,Refund,FALSE
+A006,2/9/2024,"  2,563,347.34 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A028,9/9/2024,"  7,268,567.63 ",FALSE,Deposit,Credit Company Payment,FALSE
+A017,23/8/2024,"  7,372,516.61 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A015,19/7/2024,"  5,620,358.46 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A018,4/7/2024,"  6,146,047.05 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,19/9/2024,"  3,526,197.89 ",FALSE,Withdrawal,Operational Cost,FALSE
+A007,8/9/2024,"  10,842,261.63 ",TRUE,Withdrawal,Operational Cost,TRUE
+A014,12/7/2024,"  5,812,210.00 ",FALSE,Deposit,Government Subsidy,FALSE
+A017,30/7/2024,"  4,248,312.16 ",TRUE,Deposit,Government Subsidy,FALSE
+A019,29/9/2024,"  5,770,778.09 ",FALSE,Withdrawal,Refund,FALSE
+A003,11/9/2024,"  3,689,022.01 ",FALSE,Deposit,Credit Company Payment,FALSE
+A016,11/9/2024,"  4,178,930.61 ",TRUE,Deposit,Government Subsidy,FALSE
+A010,13/7/2024,"  3,911,735.44 ",FALSE,Deposit,Government Subsidy,FALSE
+A026,16/9/2024,"  5,464,034.21 ",FALSE,Withdrawal,Refund,FALSE
+A034,11/7/2024,"  8,210,687.81 ",FALSE,Withdrawal,Refund,TRUE
+A013,4/8/2024,"  8,116,351.93 ",FALSE,Withdrawal,Refund,TRUE
+A019,18/7/2024,"  2,683,522.25 ",FALSE,Deposit,Customer Payment,FALSE
+A020,27/9/2024,"  5,013,357.93 ",TRUE,Deposit,Customer Payment,FALSE
+A016,8/9/2024,"  11,769,237.06 ",FALSE,Deposit,Government Subsidy,TRUE
+A025,17/8/2024,"  6,769,846.39 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A012,31/8/2024,"  3,968,206.24 ",FALSE,Deposit,Government Subsidy,FALSE
+A027,11/8/2024,"  4,676,493.39 ",FALSE,Deposit,Government Subsidy,FALSE
+A025,5/7/2024,"  6,519,688.96 ",TRUE,Withdrawal,Operational Cost,FALSE
+A005,7/9/2024,"  2,443,974.49 ",FALSE,Deposit,Government Subsidy,FALSE
+A029,11/8/2024,"  1,521,479.84 ",FALSE,Deposit,Customer Payment,FALSE
+A032,30/9/2024,"  11,013,651.66 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A022,12/7/2024,"  2,888,705.50 ",FALSE,Withdrawal,Operational Cost,FALSE
+A003,6/7/2024,"  6,086,937.21 ",FALSE,Deposit,Credit Company Payment,FALSE
+A011,6/7/2024,"  7,806,551.68 ",FALSE,Deposit,Credit Company Payment,FALSE
+A006,1/8/2024,"  10,630,733.30 ",FALSE,Withdrawal,Operational Cost,TRUE
+A015,10/8/2024,"  2,333,398.11 ",FALSE,Deposit,Government Subsidy,FALSE
+A004,10/8/2024,"  10,592,833.22 ",FALSE,Deposit,Government Subsidy,TRUE
+A017,22/8/2024,"  4,897,490.93 ",TRUE,Deposit,Government Subsidy,FALSE
+A036,11/7/2024,"  1,133,027.49 ",FALSE,Deposit,Credit Company Payment,FALSE
+A005,24/9/2024,"  6,820,390.61 ",FALSE,Deposit,Customer Payment,FALSE
+A009,10/9/2024,"  305,648.58 ",FALSE,Deposit,Credit Company Payment,TRUE
+A031,23/7/2024,"  2,338,902.27 ",TRUE,Deposit,Credit Company Payment,FALSE
+A030,9/7/2024,"  6,349,080.46 ",FALSE,Deposit,Credit Company Payment,FALSE
+A030,21/8/2024,"  7,028,551.98 ",FALSE,Deposit,Credit Company Payment,FALSE
+A031,27/8/2024,"  972,427.72 ",FALSE,Withdrawal,Operational Cost,TRUE
+A005,4/9/2024,"  2,557,117.17 ",FALSE,Withdrawal,Refund,FALSE
+A034,4/9/2024,"  7,621,342.36 ",FALSE,Withdrawal,Operational Cost,FALSE
+A013,15/9/2024,"  6,266,997.75 ",FALSE,Deposit,Credit Company Payment,FALSE
+A013,2/9/2024,"  7,386,706.39 ",FALSE,Deposit,Credit Company Payment,FALSE
+A027,30/9/2024,"  9,956,419.95 ",TRUE,Withdrawal,Supplier Payment,TRUE
+A005,20/9/2024,"  7,066,980.20 ",FALSE,Deposit,Credit Company Payment,FALSE
+A015,30/8/2024,"  7,925,655.90 ",TRUE,Deposit,Customer Payment,FALSE
+A013,16/7/2024,"  3,700,664.04 ",TRUE,Deposit,Government Subsidy,FALSE
+A013,29/8/2024,"  9,454,275.12 ",FALSE,Withdrawal,Operational Cost,TRUE
+A032,7/8/2024,"  5,757,527.07 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A017,26/8/2024,"  3,924,418.53 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A035,29/7/2024,"  8,988,846.81 ",FALSE,Withdrawal,Operational Cost,TRUE
+A017,3/7/2024,"  3,897,784.94 ",FALSE,Deposit,Credit Company Payment,FALSE
+A005,1/7/2024,"  6,499,860.88 ",FALSE,Deposit,Customer Payment,FALSE
+A027,2/8/2024,"  3,338,136.57 ",FALSE,Deposit,Customer Payment,FALSE
+A012,6/8/2024,"  4,237,763.94 ",FALSE,Withdrawal,Refund,FALSE
+A002,10/8/2024,"  755,037.22 ",FALSE,Withdrawal,Refund,TRUE
+A020,21/9/2024,"  8,143,207.48 ",FALSE,Deposit,Credit Company Payment,TRUE
+A005,2/9/2024,"  5,422,768.25 ",FALSE,Deposit,Customer Payment,FALSE
+A007,24/9/2024,"  7,457,570.75 ",TRUE,Deposit,Credit Company Payment,FALSE
+A009,8/7/2024,"  5,025,339.72 ",FALSE,Deposit,Credit Company Payment,FALSE
+A012,5/9/2024,"  138,465.47 ",FALSE,Deposit,Customer Payment,TRUE
+A017,3/8/2024,"  3,460,685.54 ",FALSE,Deposit,Customer Payment,FALSE
+A022,19/9/2024,"  8,737,661.68 ",FALSE,Deposit,Credit Company Payment,TRUE
+A030,7/9/2024,"  5,287,928.19 ",FALSE,Withdrawal,Refund,FALSE
+A032,14/7/2024,"  5,273,840.06 ",FALSE,Deposit,Customer Payment,FALSE
+A024,3/9/2024,"  2,426,330.24 ",FALSE,Deposit,Customer Payment,FALSE
+A029,3/7/2024,"  8,113,278.97 ",FALSE,Withdrawal,Operational Cost,TRUE
+A006,24/8/2024,"  6,631,588.55 ",TRUE,Withdrawal,Refund,FALSE
+A014,23/8/2024,"  8,838,660.06 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A030,29/9/2024,"  1,847,103.56 ",FALSE,Deposit,Customer Payment,FALSE
+A011,31/8/2024,"  5,968,101.80 ",FALSE,Withdrawal,Operational Cost,FALSE
+A011,24/9/2024,"  7,190,665.88 ",FALSE,Deposit,Customer Payment,FALSE
+A007,13/7/2024,"  7,317,880.48 ",FALSE,Withdrawal,Operational Cost,FALSE
+A001,22/8/2024,"  5,642,206.74 ",FALSE,Withdrawal,Refund,FALSE
+A014,11/7/2024,"  4,634,549.23 ",FALSE,Withdrawal,Refund,FALSE
+A003,14/7/2024,"  7,303,862.07 ",FALSE,Deposit,Credit Company Payment,FALSE
+A024,18/9/2024,"  10,017,486.55 ",FALSE,Withdrawal,Operational Cost,TRUE
+A033,11/7/2024,"  10,268,326.95 ",FALSE,Deposit,Customer Payment,TRUE
+A009,20/9/2024,"  10,146,937.18 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A014,21/7/2024,"  4,061,090.80 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,15/8/2024,"  2,600,054.35 ",TRUE,Withdrawal,Operational Cost,FALSE
+A006,15/7/2024,"  3,836,156.85 ",FALSE,Deposit,Credit Company Payment,FALSE
+A010,29/9/2024,"  1,546,134.32 ",FALSE,Withdrawal,Refund,FALSE
+A003,1/8/2024,"  9,427,420.48 ",FALSE,Withdrawal,Refund,TRUE
+A036,15/9/2024,"  4,609,440.55 ",FALSE,Deposit,Customer Payment,FALSE
+A017,23/8/2024,"  8,820,494.34 ",FALSE,Withdrawal,Operational Cost,TRUE
+A023,19/7/2024,"  6,271,073.50 ",FALSE,Withdrawal,Refund,FALSE
+A008,26/9/2024,"  6,871,340.12 ",FALSE,Deposit,Customer Payment,FALSE
+A013,6/9/2024,"  969,869.30 ",FALSE,Deposit,Customer Payment,TRUE
+A014,20/9/2024,"  76,543.31 ",FALSE,Deposit,Credit Company Payment,TRUE
+A008,18/7/2024,"  2,762,485.14 ",TRUE,Deposit,Customer Payment,FALSE
+A005,23/9/2024,"  3,207,197.02 ",FALSE,Withdrawal,Operational Cost,FALSE
+A029,31/8/2024,"  10,950,923.28 ",FALSE,Withdrawal,Refund,TRUE
+A031,30/9/2024,"  2,403,510.51 ",FALSE,Deposit,Credit Company Payment,FALSE
+A002,3/7/2024,"  7,709,804.54 ",FALSE,Deposit,Customer Payment,FALSE
+A024,31/8/2024,"  7,451,774.78 ",FALSE,Deposit,Government Subsidy,FALSE
+A001,21/8/2024,"  1,464,774.00 ",FALSE,Withdrawal,Refund,FALSE
+A003,17/9/2024,"  9,818,745.86 ",FALSE,Deposit,Customer Payment,TRUE
+A005,15/9/2024,"  6,606,837.07 ",FALSE,Withdrawal,Operational Cost,FALSE
+A025,18/8/2024,"  7,299,985.91 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A035,26/9/2024,"  3,834,255.79 ",FALSE,Deposit,Government Subsidy,FALSE
+A016,24/9/2024,"  7,340,611.83 ",FALSE,Deposit,Customer Payment,FALSE
+A003,29/9/2024,"  2,978,092.80 ",FALSE,Withdrawal,Operational Cost,FALSE
+A021,29/9/2024,"  3,489,929.73 ",FALSE,Deposit,Customer Payment,FALSE
+A006,29/8/2024,"  5,974,602.48 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A017,24/8/2024,"  5,907,815.75 ",FALSE,Deposit,Customer Payment,FALSE
+A026,23/7/2024,"  3,300,230.12 ",FALSE,Deposit,Credit Company Payment,FALSE
+A009,12/7/2024,"  5,871,584.91 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A014,13/7/2024,"  5,208,912.02 ",FALSE,Withdrawal,Operational Cost,FALSE
+A033,21/7/2024,"  4,685,927.87 ",FALSE,Deposit,Customer Payment,FALSE
+A030,29/8/2024,"  3,670,756.74 ",FALSE,Withdrawal,Operational Cost,FALSE
+A033,19/9/2024,"  8,231,774.68 ",FALSE,Withdrawal,Operational Cost,TRUE
+A019,23/9/2024,"  5,190,955.79 ",TRUE,Deposit,Credit Company Payment,FALSE
+A022,10/8/2024,"  9,023,136.91 ",FALSE,Deposit,Government Subsidy,TRUE
+A031,1/8/2024,"  1,030,339.11 ",FALSE,Deposit,Government Subsidy,FALSE
+A012,2/7/2024,"  6,017,204.39 ",FALSE,Withdrawal,Operational Cost,FALSE
+A028,27/7/2024,"  7,448,630.45 ",FALSE,Withdrawal,Operational Cost,FALSE
+A015,26/9/2024,"  7,032,412.62 ",FALSE,Deposit,Credit Company Payment,FALSE
+A035,22/7/2024,"  2,750,008.01 ",FALSE,Deposit,Credit Company Payment,FALSE
+A001,15/7/2024,"  2,900,163.08 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A010,20/9/2024,"  1,353,404.15 ",TRUE,Deposit,Customer Payment,FALSE
+A033,8/7/2024,"  5,791,525.31 ",FALSE,Deposit,Customer Payment,FALSE
+A011,25/7/2024,"  6,648,760.56 ",FALSE,Deposit,Customer Payment,FALSE
+A029,12/9/2024,"  1,771,738.46 ",FALSE,Deposit,Government Subsidy,FALSE
+A009,21/9/2024,"  915,008.99 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A035,14/7/2024,"  1,094,167.38 ",FALSE,Deposit,Customer Payment,FALSE
+A034,31/7/2024,"  7,366,390.21 ",FALSE,Deposit,Credit Company Payment,FALSE
+A016,27/9/2024,"  3,404,972.34 ",FALSE,Deposit,Credit Company Payment,FALSE
+A018,14/8/2024,"  9,993,633.44 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A026,9/9/2024,"  4,027,252.53 ",FALSE,Deposit,Government Subsidy,FALSE
+A005,8/9/2024,"  951,267.94 ",FALSE,Withdrawal,Refund,TRUE
+A033,9/9/2024,"  9,324,073.90 ",FALSE,Deposit,Credit Company Payment,TRUE
+A014,9/7/2024,"  10,234,922.39 ",FALSE,Withdrawal,Operational Cost,TRUE
+A025,16/9/2024,"  4,807,545.45 ",FALSE,Deposit,Credit Company Payment,FALSE
+A022,1/7/2024,"  6,272,465.88 ",FALSE,Withdrawal,Refund,FALSE
+A014,18/8/2024,"  5,492,360.87 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A002,11/7/2024,"  6,524,000.90 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A008,23/9/2024,"  10,898,186.56 ",FALSE,Deposit,Customer Payment,TRUE
+A028,23/7/2024,"  4,891,617.84 ",FALSE,Withdrawal,Refund,FALSE
+A019,22/9/2024,"  6,157,037.92 ",FALSE,Withdrawal,Operational Cost,FALSE
+A007,24/8/2024,"  7,570,970.93 ",FALSE,Withdrawal,Operational Cost,FALSE
+A006,11/8/2024,"  9,700,501.18 ",FALSE,Deposit,Customer Payment,TRUE
+A003,21/9/2024,"  4,851,452.33 ",TRUE,Deposit,Government Subsidy,FALSE
+A004,13/7/2024,"  7,074,901.75 ",FALSE,Deposit,Credit Company Payment,FALSE
+A023,29/9/2024,"  433,714.35 ",TRUE,Withdrawal,Operational Cost,TRUE
+A008,15/9/2024,"  2,596,269.25 ",FALSE,Deposit,Credit Company Payment,FALSE
+A030,9/8/2024,"  5,312,523.49 ",FALSE,Deposit,Customer Payment,FALSE
+A014,19/8/2024,"  4,523,181.08 ",FALSE,Deposit,Government Subsidy,FALSE
+A017,12/9/2024,"  4,218,821.97 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A028,30/7/2024,"  8,490,327.36 ",FALSE,Deposit,Credit Company Payment,TRUE
+A032,15/7/2024,"  11,397,697.39 ",FALSE,Withdrawal,Refund,TRUE
+A026,3/9/2024,"  5,355,829.60 ",FALSE,Deposit,Government Subsidy,FALSE
+A016,1/9/2024,"  8,334,631.13 ",FALSE,Deposit,Government Subsidy,TRUE
+A033,30/9/2024,"  682,669.76 ",FALSE,Deposit,Credit Company Payment,TRUE
+A021,25/7/2024,"  4,197,645.91 ",FALSE,Withdrawal,Operational Cost,FALSE
+A017,28/7/2024,"  5,324,722.63 ",FALSE,Deposit,Credit Company Payment,FALSE
+A028,9/9/2024,"  9,654,290.01 ",FALSE,Withdrawal,Operational Cost,TRUE
+A025,6/7/2024,"  8,590,071.55 ",FALSE,Deposit,Customer Payment,TRUE
+A007,2/7/2024,"  6,086,640.81 ",FALSE,Withdrawal,Refund,FALSE
+A012,8/8/2024,"  9,380,511.44 ",FALSE,Deposit,Credit Company Payment,TRUE
+A026,5/8/2024,"  2,724,962.45 ",FALSE,Withdrawal,Refund,FALSE
+A031,22/8/2024,"  3,278,758.36 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,24/8/2024,"  6,355,108.26 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A010,18/9/2024,"  6,843,331.59 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,20/7/2024,"  84,081.36 ",FALSE,Deposit,Customer Payment,TRUE
+A013,11/8/2024,"  8,297,095.21 ",FALSE,Deposit,Customer Payment,TRUE
+A008,16/7/2024,"  9,185,309.86 ",FALSE,Deposit,Government Subsidy,TRUE
+A036,24/7/2024,"  3,008,441.50 ",FALSE,Deposit,Government Subsidy,FALSE
+A020,8/8/2024,"  5,676,787.80 ",FALSE,Deposit,Government Subsidy,FALSE
+A026,17/7/2024,"  5,170,110.90 ",FALSE,Deposit,Credit Company Payment,FALSE
+A006,21/7/2024,"  3,862,638.10 ",FALSE,Deposit,Credit Company Payment,FALSE
+A034,28/9/2024,"  5,515,314.45 ",TRUE,Withdrawal,Operational Cost,FALSE
+A001,24/8/2024,"  9,751,092.83 ",FALSE,Withdrawal,Operational Cost,TRUE
+A030,25/9/2024,"  8,788,281.98 ",FALSE,Withdrawal,Refund,TRUE
+A029,21/9/2024,"  5,709,878.71 ",FALSE,Withdrawal,Refund,FALSE
+A008,2/8/2024,"  7,065,723.70 ",FALSE,Withdrawal,Refund,FALSE
+A032,29/7/2024,"  2,944,671.68 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A016,13/9/2024,"  7,322,340.05 ",TRUE,Deposit,Customer Payment,FALSE
+A017,7/8/2024,"  7,825,202.35 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A024,28/7/2024,"  7,372,121.30 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A031,7/9/2024,"  3,536,396.65 ",FALSE,Withdrawal,Refund,FALSE
+A009,16/7/2024,"  7,815,212.94 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A009,18/8/2024,"  10,251,114.24 ",FALSE,Deposit,Customer Payment,TRUE
+A008,5/9/2024,"  8,745,052.07 ",FALSE,Deposit,Credit Company Payment,TRUE
+A009,1/7/2024,"  773,959.27 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A031,15/8/2024,"  5,063,236.46 ",TRUE,Deposit,Government Subsidy,FALSE
+A027,10/9/2024,"  5,952,138.82 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A030,10/7/2024,"  5,907,443.05 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A035,4/9/2024,"  8,379,888.10 ",FALSE,Deposit,Customer Payment,TRUE
+A026,15/7/2024,"  2,273,950.30 ",FALSE,Withdrawal,Operational Cost,FALSE
+A035,4/9/2024,"  9,911,970.57 ",FALSE,Deposit,Government Subsidy,TRUE
+A031,18/7/2024,"  8,588,271.07 ",FALSE,Withdrawal,Operational Cost,TRUE
+A007,12/8/2024,"  4,022,857.78 ",FALSE,Deposit,Customer Payment,FALSE
+A022,8/9/2024,"  4,125,136.90 ",FALSE,Withdrawal,Operational Cost,FALSE
+A013,25/7/2024,"  7,427,009.21 ",FALSE,Withdrawal,Refund,FALSE
+A032,28/7/2024,"  3,459,232.04 ",FALSE,Deposit,Customer Payment,FALSE
+A031,12/7/2024,"  6,703,782.49 ",TRUE,Withdrawal,Supplier Payment,FALSE
+A003,17/7/2024,"  2,423,808.12 ",FALSE,Deposit,Credit Company Payment,FALSE
+A032,14/7/2024,"  4,372,003.14 ",FALSE,Deposit,Government Subsidy,FALSE
+A014,31/7/2024,"  6,149,714.76 ",FALSE,Deposit,Credit Company Payment,FALSE
+A013,2/8/2024,"  7,917,210.52 ",FALSE,Deposit,Customer Payment,FALSE
+A026,5/8/2024,"  2,635,617.43 ",TRUE,Withdrawal,Supplier Payment,FALSE
+A033,3/9/2024,"  7,082,668.00 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A026,9/7/2024,"  1,679,862.56 ",FALSE,Withdrawal,Refund,FALSE
+A004,21/8/2024,"  5,952,087.11 ",FALSE,Withdrawal,Operational Cost,FALSE
+A008,23/7/2024,"  1,800,928.25 ",TRUE,Deposit,Customer Payment,FALSE
+A032,23/9/2024,"  8,984,840.39 ",FALSE,Deposit,Customer Payment,TRUE
+A027,1/8/2024,"  4,712,847.60 ",FALSE,Withdrawal,Operational Cost,FALSE
+A036,30/9/2024,"  2,887,008.81 ",TRUE,Deposit,Customer Payment,FALSE
+A022,23/8/2024,"  5,746,766.55 ",FALSE,Withdrawal,Operational Cost,FALSE
+A008,17/9/2024,"  5,982,237.90 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A024,16/7/2024,"  3,506,053.88 ",FALSE,Withdrawal,Refund,FALSE
+A023,2/7/2024,"  3,949,472.19 ",TRUE,Withdrawal,Operational Cost,FALSE
+A022,24/7/2024,"  8,892,315.28 ",FALSE,Withdrawal,Operational Cost,TRUE
+A024,1/7/2024,"  1,818,161.86 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A033,4/9/2024,"  5,792,726.90 ",FALSE,Withdrawal,Operational Cost,FALSE
+A013,2/8/2024,"  8,618,349.88 ",FALSE,Deposit,Credit Company Payment,TRUE
+A011,3/9/2024,"  6,685,495.99 ",FALSE,Withdrawal,Refund,FALSE
+A012,25/9/2024,"  7,887,160.52 ",FALSE,Deposit,Credit Company Payment,FALSE
+A024,15/8/2024,"  7,038,466.35 ",FALSE,Withdrawal,Operational Cost,FALSE
+A018,24/8/2024,"  3,864,224.87 ",FALSE,Deposit,Customer Payment,FALSE
+A016,1/7/2024,"  6,382,270.25 ",FALSE,Deposit,Credit Company Payment,FALSE
+A020,19/8/2024,"  3,588,904.86 ",FALSE,Withdrawal,Refund,FALSE
+A016,23/8/2024,"  5,887,694.90 ",FALSE,Deposit,Credit Company Payment,FALSE
+A026,3/9/2024,"  7,365,561.08 ",FALSE,Deposit,Customer Payment,FALSE
+A009,20/9/2024,"  6,308,896.01 ",FALSE,Withdrawal,Refund,FALSE
+A035,9/8/2024,"  10,034,864.35 ",FALSE,Withdrawal,Operational Cost,TRUE
+A032,25/7/2024,"  5,639,059.07 ",FALSE,Deposit,Customer Payment,FALSE
+A036,10/9/2024,"  10,163,162.98 ",FALSE,Deposit,Customer Payment,TRUE
+A027,5/9/2024,"  4,098,890.43 ",FALSE,Deposit,Credit Company Payment,FALSE
+A024,22/9/2024,"  9,331,369.14 ",FALSE,Withdrawal,Refund,TRUE
+A022,13/9/2024,"  3,653,214.52 ",FALSE,Withdrawal,Operational Cost,FALSE
+A024,30/9/2024,"  7,699,361.51 ",FALSE,Deposit,Customer Payment,FALSE
+A014,30/8/2024,"  6,586,001.42 ",FALSE,Deposit,Credit Company Payment,FALSE
+A026,18/7/2024,"  10,485,679.67 ",FALSE,Deposit,Government Subsidy,TRUE
+A018,6/8/2024,"  2,781,066.89 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A017,31/8/2024,"  9,424.51 ",FALSE,Deposit,Customer Payment,TRUE
+A001,21/8/2024,"  7,011,196.42 ",FALSE,Withdrawal,Operational Cost,FALSE
+A018,19/8/2024,"  8,628,588.36 ",FALSE,Withdrawal,Refund,TRUE
+A002,1/9/2024,"  5,720,384.57 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A014,18/7/2024,"  8,100,850.54 ",FALSE,Withdrawal,Refund,TRUE
+A003,29/8/2024,"  2,449,963.54 ",TRUE,Withdrawal,Operational Cost,FALSE
+A013,30/7/2024,"  7,638,976.27 ",TRUE,Deposit,Customer Payment,FALSE
+A007,7/7/2024,"  4,200,049.08 ",FALSE,Deposit,Customer Payment,FALSE
+A016,11/8/2024,"  3,885,552.70 ",FALSE,Deposit,Government Subsidy,FALSE
+A018,14/7/2024,"  9,343,812.00 ",FALSE,Deposit,Government Subsidy,TRUE
+A001,27/9/2024,"  4,390,019.91 ",FALSE,Deposit,Customer Payment,FALSE
+A022,5/7/2024,"  4,474,297.77 ",FALSE,Deposit,Customer Payment,FALSE
+A029,9/8/2024,"  6,670,320.42 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A014,31/7/2024,"  7,644,179.24 ",FALSE,Withdrawal,Operational Cost,FALSE
+A021,6/8/2024,"  4,561,544.39 ",FALSE,Deposit,Government Subsidy,FALSE
+A015,4/9/2024,"  6,108,123.72 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A027,30/8/2024,"  6,251,385.83 ",TRUE,Withdrawal,Operational Cost,FALSE
+A008,13/7/2024,"  6,938,969.43 ",FALSE,Deposit,Customer Payment,FALSE
+A011,27/8/2024,"  293,248.76 ",FALSE,Withdrawal,Operational Cost,TRUE
+A010,30/9/2024,"  1,746,427.61 ",FALSE,Deposit,Credit Company Payment,FALSE
+A023,29/8/2024,"  9,511,943.91 ",FALSE,Withdrawal,Refund,TRUE
+A016,18/9/2024,"  4,433,754.33 ",FALSE,Deposit,Government Subsidy,FALSE
+A035,6/7/2024,"  11,010,241.05 ",TRUE,Withdrawal,Supplier Payment,TRUE
+A016,11/7/2024,"  3,849,433.05 ",FALSE,Withdrawal,Refund,FALSE
+A014,4/9/2024,"  9,176,534.39 ",FALSE,Deposit,Credit Company Payment,TRUE
+A021,29/8/2024,"  8,085,514.00 ",FALSE,Deposit,Credit Company Payment,TRUE
+A011,24/7/2024,"  4,639,877.13 ",FALSE,Deposit,Customer Payment,FALSE
+A002,10/8/2024,"  11,220,345.79 ",FALSE,Deposit,Credit Company Payment,TRUE
+A025,19/8/2024,"  7,240,210.92 ",FALSE,Deposit,Government Subsidy,FALSE
+A001,16/9/2024,"  8,066,182.46 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A004,19/9/2024,"  2,246,837.18 ",TRUE,Withdrawal,Operational Cost,FALSE
+A025,25/9/2024,"  4,875,406.34 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A030,27/8/2024,"  5,118,335.49 ",FALSE,Deposit,Government Subsidy,FALSE
+A004,18/7/2024,"  1,560,632.32 ",FALSE,Withdrawal,Refund,FALSE
+A018,5/7/2024,"  9,060,202.04 ",FALSE,Withdrawal,Operational Cost,TRUE
+A008,17/9/2024,"  4,408,654.23 ",FALSE,Deposit,Government Subsidy,FALSE
+A008,29/8/2024,"  3,735,699.90 ",TRUE,Deposit,Customer Payment,FALSE
+A022,17/7/2024,"  9,992,706.53 ",FALSE,Withdrawal,Operational Cost,TRUE
+A033,3/8/2024,"  5,314,575.83 ",FALSE,Withdrawal,Operational Cost,FALSE
+A015,27/7/2024,"  4,738,571.79 ",TRUE,Deposit,Customer Payment,FALSE
+A026,3/7/2024,"  11,184,167.56 ",TRUE,Deposit,Customer Payment,TRUE
+A022,10/7/2024,"  5,174,929.27 ",FALSE,Deposit,Credit Company Payment,FALSE
+A027,4/7/2024,"  153,649.96 ",TRUE,Deposit,Government Subsidy,TRUE
+A011,12/8/2024,"  7,325,578.75 ",TRUE,Withdrawal,Operational Cost,FALSE
+A009,5/8/2024,"  3,295,168.60 ",FALSE,Deposit,Credit Company Payment,FALSE
+A017,5/7/2024,"  9,292,475.01 ",FALSE,Deposit,Customer Payment,TRUE
+A004,12/7/2024,"  1,159,158.98 ",TRUE,Deposit,Government Subsidy,FALSE
+A032,30/8/2024,"  2,599,020.14 ",FALSE,Deposit,Credit Company Payment,FALSE
+A007,30/9/2024,"  6,822,773.07 ",FALSE,Deposit,Customer Payment,FALSE
+A001,6/9/2024,"  7,325,372.11 ",FALSE,Withdrawal,Operational Cost,FALSE
+A013,27/8/2024,"  2,540,420.94 ",FALSE,Deposit,Customer Payment,FALSE
+A011,27/8/2024,"  9,706,893.69 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A005,14/9/2024,"  8,699,993.96 ",FALSE,Deposit,Credit Company Payment,TRUE
+A015,21/8/2024,"  5,371,718.54 ",FALSE,Deposit,Customer Payment,FALSE
+A030,23/9/2024,"  3,994,160.80 ",FALSE,Deposit,Government Subsidy,FALSE
+A030,27/9/2024,"  3,006,977.32 ",FALSE,Deposit,Customer Payment,FALSE
+A020,8/9/2024,"  6,379,539.11 ",FALSE,Withdrawal,Refund,FALSE
+A010,17/8/2024,"  10,134,728.90 ",FALSE,Withdrawal,Refund,TRUE
+A011,8/7/2024,"  73,518.95 ",FALSE,Withdrawal,Refund,TRUE
+A032,21/7/2024,"  5,153,652.33 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A008,31/8/2024,"  4,513,099.45 ",FALSE,Withdrawal,Operational Cost,FALSE
+A032,15/9/2024,"  2,301,022.13 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A034,19/9/2024,"  5,820,328.76 ",FALSE,Withdrawal,Operational Cost,FALSE
+A005,2/9/2024,"  4,440,622.14 ",FALSE,Withdrawal,Refund,FALSE
+A010,27/8/2024,"  3,476,521.42 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,7/7/2024,"  4,750,484.70 ",FALSE,Withdrawal,Refund,FALSE
+A006,2/7/2024,"  11,707,935.92 ",FALSE,Deposit,Customer Payment,TRUE
+A032,20/9/2024,"  7,227,582.18 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A001,4/9/2024,"  7,150,860.87 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A022,13/7/2024,"  822,625.58 ",FALSE,Deposit,Credit Company Payment,TRUE
+A006,25/9/2024,"  3,994,110.19 ",FALSE,Deposit,Customer Payment,FALSE
+A009,26/9/2024,"  2,337,133.44 ",FALSE,Deposit,Customer Payment,FALSE
+A026,31/8/2024,"  485,675.11 ",FALSE,Deposit,Credit Company Payment,TRUE
+A020,8/9/2024,"  2,135,748.77 ",FALSE,Deposit,Government Subsidy,FALSE
+A001,17/7/2024,"  11,597,935.74 ",FALSE,Withdrawal,Refund,TRUE
+A016,1/8/2024,"  2,943,253.97 ",TRUE,Deposit,Government Subsidy,FALSE
+A007,11/7/2024,"  5,556,798.04 ",TRUE,Withdrawal,Supplier Payment,FALSE
+A001,9/8/2024,"  3,055,710.06 ",FALSE,Withdrawal,Refund,FALSE
+A022,1/7/2024,"  2,741,070.56 ",FALSE,Withdrawal,Refund,FALSE
+A017,14/8/2024,"  7,208,682.46 ",FALSE,Withdrawal,Refund,FALSE
+A026,4/9/2024,"  7,492,969.75 ",FALSE,Withdrawal,Refund,FALSE
+A007,24/9/2024,"  10,136,360.97 ",FALSE,Deposit,Credit Company Payment,TRUE
+A013,20/9/2024,"  1,568,173.81 ",FALSE,Deposit,Government Subsidy,FALSE
+A017,27/9/2024,"  11,929,960.73 ",FALSE,Withdrawal,Operational Cost,TRUE
+A020,7/9/2024,"  5,718,714.67 ",FALSE,Deposit,Credit Company Payment,FALSE
+A007,13/8/2024,"  1,218,300.46 ",FALSE,Deposit,Customer Payment,FALSE
+A019,18/9/2024,"  6,290,581.27 ",FALSE,Withdrawal,Refund,FALSE
+A004,21/9/2024,"  5,310,462.31 ",FALSE,Deposit,Credit Company Payment,FALSE
+A025,12/8/2024,"  8,573,465.88 ",FALSE,Withdrawal,Operational Cost,TRUE
+A026,6/7/2024,"  3,667,713.98 ",FALSE,Deposit,Government Subsidy,FALSE
+A006,24/7/2024,"  6,802,610.53 ",TRUE,Deposit,Government Subsidy,FALSE
+A004,8/9/2024,"  3,097,293.02 ",FALSE,Deposit,Credit Company Payment,FALSE
+A008,16/7/2024,"  4,981,724.99 ",TRUE,Withdrawal,Refund,FALSE
+A023,15/8/2024,"  8,876,859.53 ",FALSE,Deposit,Customer Payment,TRUE
+A001,30/8/2024,"  2,654,167.34 ",FALSE,Deposit,Government Subsidy,FALSE
+A027,14/8/2024,"  6,292,730.53 ",FALSE,Withdrawal,Operational Cost,FALSE
+A001,11/7/2024,"  4,986,326.96 ",FALSE,Deposit,Customer Payment,FALSE
+A006,15/8/2024,"  1,064,605.68 ",FALSE,Deposit,Government Subsidy,FALSE
+A026,1/9/2024,"  1,138,538.02 ",TRUE,Deposit,Credit Company Payment,FALSE
+A007,14/7/2024,"  3,585,160.42 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A036,25/9/2024,"  7,697,132.12 ",FALSE,Deposit,Customer Payment,FALSE
+A011,10/8/2024,"  1,074,403.11 ",FALSE,Withdrawal,Refund,FALSE
+A006,12/8/2024,"  14,291,093.32 ",FALSE,Withdrawal,Refund,TRUE
+A030,10/9/2024,"  7,584,061.45 ",FALSE,Withdrawal,Refund,FALSE
+A026,5/7/2024,"  8,938,132.58 ",TRUE,Withdrawal,Supplier Payment,TRUE
+A011,19/9/2024,"  5,322,007.51 ",TRUE,Withdrawal,Refund,FALSE
+A026,30/8/2024,"  4,891,621.94 ",FALSE,Deposit,Government Subsidy,FALSE
+A029,10/8/2024,"  11,945,632.25 ",FALSE,Withdrawal,Refund,TRUE
+A031,1/9/2024,"  2,855,081.01 ",FALSE,Deposit,Government Subsidy,FALSE
+A033,6/7/2024,"  6,248,931.27 ",FALSE,Deposit,Credit Company Payment,FALSE
+A020,9/7/2024,"  8,583,055.54 ",FALSE,Deposit,Customer Payment,TRUE
+A002,27/9/2024,"  3,845,932.74 ",FALSE,Withdrawal,Operational Cost,FALSE
+A001,18/9/2024,"  7,487,471.10 ",FALSE,Deposit,Government Subsidy,FALSE
+A023,25/9/2024,"  8,363,093.81 ",FALSE,Deposit,Customer Payment,TRUE
+A013,22/8/2024,"  7,219,922.86 ",FALSE,Deposit,Government Subsidy,FALSE
+A027,21/9/2024,"  6,569,364.20 ",TRUE,Deposit,Credit Company Payment,FALSE
+A002,24/9/2024,"  6,372,735.79 ",TRUE,Withdrawal,Operational Cost,FALSE
+A026,17/8/2024,"  8,628,641.49 ",TRUE,Deposit,Government Subsidy,TRUE
+A023,20/9/2024,"  5,017,236.85 ",FALSE,Withdrawal,Refund,FALSE
+A003,30/9/2024,"  6,128,111.96 ",FALSE,Deposit,Credit Company Payment,FALSE
+A032,14/8/2024,"  6,591,288.33 ",FALSE,Deposit,Credit Company Payment,FALSE
+A035,20/8/2024,"  6,771,923.79 ",FALSE,Withdrawal,Refund,FALSE
+A016,16/8/2024,"  6,631,307.87 ",FALSE,Withdrawal,Refund,FALSE
+A005,19/9/2024,"  2,209,194.51 ",FALSE,Deposit,Government Subsidy,FALSE
+A014,29/9/2024,"  5,285,024.46 ",FALSE,Withdrawal,Refund,FALSE
+A007,15/7/2024,"  7,343,586.33 ",FALSE,Withdrawal,Refund,FALSE
+A029,26/8/2024,"  3,406,879.67 ",FALSE,Deposit,Customer Payment,FALSE
+A017,20/8/2024,"  1,540,319.04 ",FALSE,Deposit,Customer Payment,FALSE
+A023,5/8/2024,"  12,909,335.60 ",FALSE,Withdrawal,Refund,TRUE
+A009,14/9/2024,"  619,677.25 ",TRUE,Deposit,Customer Payment,TRUE
+A006,25/9/2024,"  5,421,237.14 ",FALSE,Deposit,Government Subsidy,FALSE
+A009,26/7/2024,"  10,412,857.26 ",FALSE,Withdrawal,Refund,TRUE
+A017,2/7/2024,"  2,663,829.44 ",FALSE,Withdrawal,Operational Cost,FALSE
+A023,18/9/2024,"  6,214,758.35 ",FALSE,Withdrawal,Operational Cost,FALSE
+A017,20/9/2024,"  9,678,283.22 ",FALSE,Withdrawal,Operational Cost,TRUE
+A003,5/8/2024,"  5,003,718.92 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,10/9/2024,"  7,896,880.93 ",FALSE,Deposit,Customer Payment,FALSE
+A003,23/7/2024,"  6,347,474.91 ",FALSE,Deposit,Credit Company Payment,FALSE
+A032,18/9/2024,"  5,665,669.34 ",FALSE,Withdrawal,Refund,FALSE
+A005,12/7/2024,"  8,458,472.32 ",FALSE,Deposit,Customer Payment,TRUE
+A026,17/7/2024,"  12,064,157.59 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A031,10/7/2024,"  1,968,316.40 ",FALSE,Withdrawal,Refund,FALSE
+A030,31/8/2024,"  11,089,033.82 ",FALSE,Deposit,Customer Payment,TRUE
+A036,18/8/2024,"  700,010.15 ",FALSE,Withdrawal,Operational Cost,TRUE
+A012,14/7/2024,"  7,225,428.61 ",TRUE,Deposit,Government Subsidy,FALSE
+A001,14/9/2024,"  10,432,422.10 ",FALSE,Deposit,Customer Payment,TRUE
+A013,6/7/2024,"  2,925,036.44 ",FALSE,Deposit,Credit Company Payment,FALSE
+A031,22/7/2024,"  709,063.13 ",FALSE,Withdrawal,Refund,TRUE
+A014,11/7/2024,"  5,067,056.75 ",TRUE,Deposit,Government Subsidy,FALSE
+A031,10/9/2024,"  2,140,234.69 ",FALSE,Deposit,Government Subsidy,FALSE
+A004,19/7/2024,"  7,399,572.19 ",FALSE,Deposit,Customer Payment,FALSE
+A015,17/8/2024,"  9,088,955.22 ",FALSE,Withdrawal,Operational Cost,TRUE
+A025,10/8/2024,"  4,132,033.28 ",FALSE,Deposit,Customer Payment,FALSE
+A036,9/7/2024,"  4,043,071.79 ",FALSE,Withdrawal,Refund,FALSE
+A027,21/8/2024,"  3,700,120.97 ",FALSE,Withdrawal,Refund,FALSE
+A007,5/8/2024,"  5,365,220.62 ",FALSE,Deposit,Customer Payment,FALSE
+A035,9/9/2024,"  4,592,718.08 ",FALSE,Withdrawal,Refund,FALSE
+A006,6/9/2024,"  6,236,854.10 ",FALSE,Deposit,Government Subsidy,FALSE
+A026,2/9/2024,"  6,257,835.67 ",FALSE,Deposit,Credit Company Payment,FALSE
+A035,21/9/2024,"  6,725,373.16 ",TRUE,Withdrawal,Operational Cost,FALSE
+A030,4/7/2024,"  7,942,992.94 ",FALSE,Deposit,Credit Company Payment,FALSE
+A016,6/8/2024,"  3,129,377.85 ",FALSE,Withdrawal,Operational Cost,FALSE
+A020,7/7/2024,"  4,229,493.49 ",FALSE,Deposit,Government Subsidy,FALSE
+A009,30/7/2024,"  5,767,004.39 ",FALSE,Deposit,Customer Payment,FALSE
+A011,31/7/2024,"  5,332,153.51 ",FALSE,Withdrawal,Operational Cost,FALSE
+A002,13/8/2024,"  4,698,678.23 ",FALSE,Deposit,Credit Company Payment,FALSE
+A036,7/8/2024,"  2,187,485.80 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A019,25/9/2024,"  9,521,773.96 ",FALSE,Deposit,Credit Company Payment,TRUE
+A016,20/9/2024,"  3,575,606.82 ",FALSE,Withdrawal,Refund,FALSE
+A001,18/9/2024,"  9,387,753.86 ",FALSE,Deposit,Customer Payment,TRUE
+A019,21/8/2024,"  5,664,255.51 ",FALSE,Deposit,Government Subsidy,FALSE
+A016,17/9/2024,"  7,413,463.52 ",FALSE,Deposit,Customer Payment,FALSE
+A002,17/9/2024,"  9,594,148.03 ",FALSE,Deposit,Government Subsidy,TRUE
+A002,1/9/2024,"  5,416,649.55 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,1/7/2024,"  3,823,254.81 ",FALSE,Withdrawal,Refund,FALSE
+A025,11/8/2024,"  5,228,331.58 ",FALSE,Withdrawal,Operational Cost,FALSE
+A025,18/9/2024,"  5,769,056.75 ",FALSE,Deposit,Customer Payment,FALSE
+A014,10/7/2024,"  8,471,345.40 ",FALSE,Deposit,Customer Payment,TRUE
+A003,25/8/2024,"  5,214,965.92 ",FALSE,Withdrawal,Refund,FALSE
+A034,31/8/2024,"  3,679,082.20 ",FALSE,Deposit,Government Subsidy,FALSE
+A029,20/8/2024,"  7,634,162.96 ",TRUE,Deposit,Credit Company Payment,FALSE
+A036,7/9/2024,"  5,173,649.33 ",FALSE,Deposit,Customer Payment,FALSE
+A005,22/8/2024,"  6,435,982.55 ",FALSE,Withdrawal,Operational Cost,FALSE
+A028,13/9/2024,"  6,769,649.01 ",FALSE,Withdrawal,Operational Cost,FALSE
+A015,21/8/2024,"  4,049,386.15 ",FALSE,Withdrawal,Operational Cost,FALSE
+A020,29/7/2024,"  4,803,955.09 ",FALSE,Deposit,Customer Payment,FALSE
+A004,22/7/2024,"  3,917,353.85 ",FALSE,Withdrawal,Refund,FALSE
+A018,30/7/2024,"  6,183,634.55 ",FALSE,Deposit,Credit Company Payment,FALSE
+A006,15/8/2024,"  10,099,720.66 ",FALSE,Deposit,Government Subsidy,TRUE
+A032,3/7/2024,"  6,359,664.26 ",FALSE,Deposit,Government Subsidy,FALSE
+A021,2/7/2024,"  379,323.35 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A032,11/8/2024,"  2,037,745.39 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A004,1/8/2024,"  9,178,475.69 ",FALSE,Deposit,Credit Company Payment,TRUE
+A001,1/8/2024,"  7,605,706.72 ",FALSE,Deposit,Credit Company Payment,FALSE
+A009,11/8/2024,"  6,685,456.10 ",FALSE,Deposit,Customer Payment,FALSE
+A028,9/7/2024,"  3,817,403.05 ",TRUE,Deposit,Government Subsidy,FALSE
+A024,20/9/2024,"  6,122,629.56 ",FALSE,Deposit,Credit Company Payment,FALSE
+A015,29/8/2024,"  9,542,386.91 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A035,6/8/2024,"  9,887,465.97 ",FALSE,Deposit,Credit Company Payment,TRUE
+A001,28/9/2024,"  4,205,711.68 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A003,6/9/2024,"  3,851,872.37 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,13/7/2024,"  9,518,184.28 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A025,27/7/2024,"  3,731,560.79 ",FALSE,Withdrawal,Refund,FALSE
+A010,15/7/2024,"  7,914,271.49 ",FALSE,Deposit,Government Subsidy,FALSE
+A034,15/9/2024,"  3,204,970.21 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A001,4/9/2024,"  3,570,569.46 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A008,13/8/2024,"  4,467,629.73 ",FALSE,Withdrawal,Operational Cost,FALSE
+A033,5/7/2024,"  692,165.59 ",FALSE,Withdrawal,Refund,TRUE
+A007,5/7/2024,"  12,688,168.41 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A010,26/7/2024,"  11,370,544.79 ",FALSE,Deposit,Government Subsidy,TRUE
+A026,29/7/2024,"  1,784,728.98 ",FALSE,Deposit,Customer Payment,FALSE
+A002,2/8/2024,"  4,356,235.74 ",FALSE,Deposit,Government Subsidy,FALSE
+A014,30/7/2024,"  7,360,819.16 ",FALSE,Deposit,Customer Payment,FALSE
+A007,23/7/2024,"  6,372,898.10 ",FALSE,Deposit,Customer Payment,FALSE
+A018,8/7/2024,"  4,993,572.72 ",FALSE,Deposit,Government Subsidy,FALSE
+A031,16/7/2024,"  6,247,694.94 ",FALSE,Withdrawal,Operational Cost,FALSE
+A029,8/7/2024,"  5,859,005.47 ",FALSE,Deposit,Customer Payment,FALSE
+A008,10/7/2024,"  4,976,026.20 ",FALSE,Withdrawal,Operational Cost,FALSE
+A007,4/7/2024,"  5,147,653.42 ",FALSE,Withdrawal,Operational Cost,FALSE
+A022,20/7/2024,"  2,108,489.11 ",FALSE,Deposit,Credit Company Payment,FALSE
+A035,16/8/2024,"  2,798,217.75 ",TRUE,Withdrawal,Supplier Payment,FALSE
+A011,29/9/2024,"  5,898,086.64 ",FALSE,Deposit,Customer Payment,FALSE
+A004,27/8/2024,"  6,707,387.98 ",FALSE,Deposit,Credit Company Payment,FALSE
+A013,7/8/2024,"  1,627,204.12 ",FALSE,Withdrawal,Operational Cost,FALSE
+A018,23/8/2024,"  5,407,747.46 ",FALSE,Withdrawal,Refund,FALSE
+A007,22/8/2024,"  5,382,426.71 ",FALSE,Withdrawal,Refund,FALSE
+A028,24/8/2024,"  11,039,734.41 ",FALSE,Withdrawal,Refund,TRUE
+A034,29/7/2024,"  5,190,135.56 ",FALSE,Deposit,Customer Payment,FALSE
+A007,21/7/2024,"  4,364,883.43 ",FALSE,Deposit,Credit Company Payment,FALSE
+A015,1/8/2024,"  3,783,855.85 ",FALSE,Deposit,Government Subsidy,FALSE
+A010,21/7/2024,"  9,495,849.31 ",FALSE,Deposit,Government Subsidy,TRUE
+A014,15/9/2024,"  5,460,226.11 ",FALSE,Deposit,Credit Company Payment,FALSE
+A023,25/9/2024,"  7,157,919.18 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A005,19/8/2024,"  4,307,791.40 ",FALSE,Deposit,Government Subsidy,FALSE
+A018,7/7/2024,"  2,703,759.02 ",FALSE,Deposit,Customer Payment,FALSE
+A005,2/8/2024,"  1,206,856.40 ",FALSE,Withdrawal,Operational Cost,FALSE
+A035,20/7/2024,"  4,509,510.66 ",FALSE,Withdrawal,Operational Cost,FALSE
+A036,9/7/2024,"  6,983,165.76 ",FALSE,Deposit,Customer Payment,FALSE
+A014,17/7/2024,"  6,962,027.57 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A021,15/9/2024,"  2,593,684.98 ",TRUE,Withdrawal,Operational Cost,FALSE
+A034,9/7/2024,"  2,268,983.46 ",FALSE,Deposit,Government Subsidy,FALSE
+A007,22/7/2024,"  4,120,320.93 ",FALSE,Deposit,Credit Company Payment,FALSE
+A019,26/9/2024,"  7,919,995.00 ",FALSE,Deposit,Credit Company Payment,FALSE
+A025,15/9/2024,"  4,929,478.94 ",FALSE,Withdrawal,Refund,FALSE
+A014,19/9/2024,"  6,787,934.36 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A004,21/9/2024,"  2,623,909.18 ",FALSE,Deposit,Government Subsidy,FALSE
+A015,12/7/2024,"  2,207,589.85 ",FALSE,Deposit,Customer Payment,FALSE
+A022,13/9/2024,"  807,699.43 ",FALSE,Deposit,Customer Payment,TRUE
+A013,16/9/2024,"  6,431,167.41 ",FALSE,Withdrawal,Refund,FALSE
+A018,30/9/2024,"  6,566,330.11 ",FALSE,Deposit,Credit Company Payment,FALSE
+A036,22/9/2024,"  4,947,446.00 ",TRUE,Withdrawal,Refund,FALSE
+A027,13/8/2024,"  6,507,034.35 ",TRUE,Withdrawal,Refund,FALSE
+A012,22/8/2024,"  3,993,680.15 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A022,10/8/2024,"  4,587,718.60 ",FALSE,Withdrawal,Operational Cost,FALSE
+A010,26/8/2024,"  6,473,905.07 ",FALSE,Deposit,Government Subsidy,FALSE
+A022,22/8/2024,"  6,870,790.64 ",FALSE,Withdrawal,Operational Cost,FALSE
+A017,22/7/2024,"  5,090,137.28 ",FALSE,Deposit,Customer Payment,FALSE
+A003,7/8/2024,"  2,935,380.35 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A008,30/8/2024,"  2,734,932.38 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,18/9/2024,"  2,512,726.14 ",FALSE,Deposit,Credit Company Payment,FALSE
+A015,25/9/2024,"  6,109,050.02 ",FALSE,Deposit,Customer Payment,FALSE
+A023,26/9/2024,"  3,338,571.39 ",FALSE,Deposit,Customer Payment,FALSE
+A025,23/8/2024,"  220,273.86 ",FALSE,Deposit,Credit Company Payment,TRUE
+A017,25/9/2024,"  3,606,910.23 ",TRUE,Withdrawal,Operational Cost,FALSE
+A031,5/7/2024,"  7,472,884.37 ",FALSE,Withdrawal,Operational Cost,FALSE
+A007,20/9/2024,"  2,418,456.71 ",FALSE,Withdrawal,Refund,FALSE
+A005,18/8/2024,"  7,643,698.72 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A010,24/9/2024,"  11,001,262.12 ",FALSE,Deposit,Government Subsidy,TRUE
+A032,8/8/2024,"  9,796,453.10 ",FALSE,Deposit,Customer Payment,TRUE
+A026,29/8/2024,"  5,207,382.56 ",FALSE,Deposit,Credit Company Payment,FALSE
+A025,16/9/2024,"  2,787,533.76 ",FALSE,Deposit,Customer Payment,FALSE
+A004,10/9/2024,"  4,113,374.83 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A018,5/9/2024,"  7,047,076.12 ",FALSE,Withdrawal,Operational Cost,FALSE
+A014,23/7/2024,"  1,374,637.03 ",TRUE,Withdrawal,Refund,FALSE
+A007,29/8/2024,"  7,676,633.17 ",FALSE,Deposit,Credit Company Payment,FALSE
+A019,18/8/2024,"  3,565,157.31 ",FALSE,Deposit,Government Subsidy,FALSE
+A016,28/9/2024,"  3,124,083.92 ",FALSE,Deposit,Government Subsidy,FALSE
+A024,1/9/2024,"  4,815,119.70 ",TRUE,Withdrawal,Refund,FALSE
+A034,6/8/2024,"  3,954,436.48 ",FALSE,Deposit,Customer Payment,FALSE
+A011,13/8/2024,"  239,817.00 ",FALSE,Withdrawal,Refund,TRUE
+A011,20/8/2024,"  2,970,812.41 ",FALSE,Deposit,Government Subsidy,FALSE
+A028,23/7/2024,"  6,145,230.01 ",FALSE,Withdrawal,Operational Cost,FALSE
+A004,19/8/2024,"  2,379,240.86 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A029,31/8/2024,"  653,031.00 ",FALSE,Withdrawal,Refund,TRUE
+A018,3/7/2024,"  12,947,743.07 ",FALSE,Withdrawal,Operational Cost,TRUE
+A021,26/9/2024,"  4,153,172.42 ",FALSE,Deposit,Customer Payment,FALSE
+A017,1/7/2024,"  9,731,994.57 ",FALSE,Withdrawal,Refund,TRUE
+A028,9/9/2024,"  4,702,106.82 ",FALSE,Deposit,Credit Company Payment,FALSE
+A009,11/7/2024,"  5,672,105.82 ",FALSE,Deposit,Customer Payment,FALSE
+A005,9/7/2024,"  2,312,565.43 ",FALSE,Deposit,Customer Payment,FALSE
+A022,23/7/2024,"  9,211,258.47 ",TRUE,Withdrawal,Operational Cost,TRUE
+A023,30/7/2024,"  2,051,239.57 ",FALSE,Deposit,Customer Payment,FALSE
+A035,27/8/2024,"  10,773,241.37 ",FALSE,Withdrawal,Operational Cost,TRUE
+A035,11/9/2024,"  2,412,779.15 ",FALSE,Withdrawal,Refund,FALSE
+A030,10/8/2024,"  5,043,510.06 ",FALSE,Deposit,Credit Company Payment,FALSE
+A033,5/8/2024,"  4,196,797.60 ",FALSE,Withdrawal,Refund,FALSE
+A033,27/9/2024,"  5,837,763.92 ",FALSE,Withdrawal,Refund,FALSE
+A017,21/9/2024,"  9,467,243.38 ",FALSE,Deposit,Customer Payment,TRUE
+A009,5/7/2024,"  8,418,174.80 ",FALSE,Deposit,Customer Payment,TRUE
+A027,6/8/2024,"  4,442,636.69 ",FALSE,Deposit,Government Subsidy,FALSE
+A001,15/8/2024,"  3,271,492.29 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A001,14/9/2024,"  11,768,346.93 ",FALSE,Deposit,Customer Payment,TRUE
+A022,31/7/2024,"  8,160,111.86 ",FALSE,Withdrawal,Operational Cost,TRUE
+A021,13/7/2024,"  2,200,070.46 ",FALSE,Deposit,Credit Company Payment,FALSE
+A012,10/8/2024,"  12,314,130.33 ",FALSE,Deposit,Credit Company Payment,TRUE
+A022,21/9/2024,"  5,374,892.22 ",FALSE,Withdrawal,Operational Cost,FALSE
+A025,21/7/2024,"  4,480,049.59 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A013,1/8/2024,"  5,547,918.11 ",FALSE,Deposit,Credit Company Payment,FALSE
+A013,19/9/2024,"  12,777,611.57 ",TRUE,Withdrawal,Refund,TRUE
+A020,18/8/2024,"  9,531,539.52 ",TRUE,Deposit,Customer Payment,TRUE
+A028,9/7/2024,"  2,442,228.79 ",FALSE,Withdrawal,Refund,FALSE
+A013,22/8/2024,"  7,203,615.43 ",FALSE,Withdrawal,Operational Cost,FALSE
+A033,22/9/2024,"  6,334,395.80 ",FALSE,Deposit,Customer Payment,FALSE
+A017,25/7/2024,"  10,478,813.48 ",FALSE,Deposit,Government Subsidy,TRUE
+A034,4/7/2024,"  3,003,415.68 ",FALSE,Deposit,Customer Payment,FALSE
+A021,17/7/2024,"  4,983,140.51 ",FALSE,Deposit,Credit Company Payment,FALSE
+A016,28/7/2024,"  7,701,050.92 ",FALSE,Deposit,Customer Payment,FALSE
+A016,11/9/2024,"  8,142,599.85 ",FALSE,Deposit,Government Subsidy,TRUE
+A013,30/7/2024,"  8,759,847.88 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A018,8/8/2024,"  6,811,829.32 ",FALSE,Deposit,Credit Company Payment,FALSE
+A036,10/9/2024,"  7,730,096.21 ",FALSE,Withdrawal,Operational Cost,FALSE
+A026,7/7/2024,"  2,948,419.31 ",FALSE,Withdrawal,Refund,FALSE
+A012,15/8/2024,"  8,594,732.66 ",FALSE,Deposit,Government Subsidy,TRUE
+A004,2/7/2024,"  8,985,453.34 ",TRUE,Withdrawal,Supplier Payment,TRUE
+A004,19/9/2024,"  8,121,814.39 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A006,26/8/2024,"  6,308,626.62 ",FALSE,Withdrawal,Operational Cost,FALSE
+A012,10/7/2024,"  7,192,781.18 ",FALSE,Withdrawal,Operational Cost,FALSE
+A004,22/7/2024,"  4,499,715.36 ",FALSE,Deposit,Government Subsidy,FALSE
+A027,29/9/2024,"  6,942,883.26 ",FALSE,Deposit,Credit Company Payment,FALSE
+A025,25/7/2024,"  5,146,191.82 ",FALSE,Deposit,Customer Payment,FALSE
+A026,20/8/2024,"  6,539,965.11 ",FALSE,Deposit,Government Subsidy,FALSE
+A016,23/8/2024,"  4,766,123.95 ",FALSE,Deposit,Customer Payment,FALSE
+A007,30/9/2024,"  7,075,974.01 ",FALSE,Deposit,Credit Company Payment,FALSE
+A007,22/8/2024,"  7,373,649.50 ",FALSE,Deposit,Government Subsidy,FALSE
+A024,25/7/2024,"  3,977,882.30 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A002,10/7/2024,"  2,963,464.83 ",FALSE,Deposit,Government Subsidy,FALSE
+A030,4/7/2024,"  3,726,843.03 ",FALSE,Deposit,Customer Payment,FALSE
+A011,11/7/2024,"  8,412,317.23 ",TRUE,Withdrawal,Supplier Payment,TRUE
+A030,26/7/2024,"  11,787,963.01 ",FALSE,Withdrawal,Operational Cost,TRUE
+A002,2/9/2024,"  4,910,020.68 ",FALSE,Deposit,Credit Company Payment,FALSE
+A011,17/8/2024,"  14,777,704.69 ",FALSE,Deposit,Credit Company Payment,TRUE
+A027,22/8/2024,"  7,439,020.55 ",FALSE,Deposit,Government Subsidy,FALSE
+A008,17/8/2024,"  9,845,253.45 ",FALSE,Withdrawal,Refund,TRUE
+A022,12/8/2024,"  9,970,321.33 ",FALSE,Withdrawal,Refund,TRUE
+A027,23/9/2024,"  4,006,737.10 ",FALSE,Deposit,Customer Payment,FALSE
+A022,25/7/2024,"  2,413,823.75 ",FALSE,Deposit,Customer Payment,FALSE
+A013,30/9/2024,"  5,016,852.40 ",FALSE,Deposit,Credit Company Payment,FALSE
+A017,21/7/2024,"  183,521.57 ",TRUE,Withdrawal,Operational Cost,TRUE
+A007,25/8/2024,"  6,185,067.34 ",FALSE,Deposit,Government Subsidy,FALSE
+A014,18/8/2024,"  5,492,954.81 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A023,12/7/2024,"  461,194.06 ",TRUE,Deposit,Credit Company Payment,TRUE
+A007,24/9/2024,"  10,279,894.17 ",FALSE,Deposit,Customer Payment,TRUE
+A022,7/9/2024,"  2,886,547.76 ",FALSE,Deposit,Government Subsidy,FALSE
+A028,16/9/2024,"  4,117,119.92 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A017,1/9/2024,"  5,804,938.40 ",FALSE,Deposit,Customer Payment,FALSE
+A032,1/8/2024,"  5,137,245.37 ",FALSE,Deposit,Government Subsidy,FALSE
+A018,1/7/2024,"  1,330,869.00 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A036,4/9/2024,"  7,601,935.00 ",FALSE,Withdrawal,Refund,FALSE
+A033,2/7/2024,"  1,261,039.12 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A010,2/9/2024,"  6,235,364.53 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A006,22/9/2024,"  7,171,304.96 ",FALSE,Deposit,Government Subsidy,FALSE
+A025,25/9/2024,"  1,280,799.09 ",FALSE,Withdrawal,Refund,FALSE
+A024,9/8/2024,"  6,584,410.38 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A027,1/7/2024,"  4,887,192.32 ",TRUE,Withdrawal,Refund,FALSE
+A031,13/7/2024,"  2,489,820.89 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A014,22/9/2024,"  5,157,098.44 ",TRUE,Withdrawal,Operational Cost,FALSE
+A007,4/7/2024,"  9,297,521.50 ",FALSE,Deposit,Government Subsidy,TRUE
+A011,16/8/2024,"  3,328,895.55 ",FALSE,Deposit,Customer Payment,FALSE
+A023,23/7/2024,"  8,737,594.43 ",FALSE,Withdrawal,Refund,TRUE
+A030,17/9/2024,"  3,549,687.92 ",TRUE,Deposit,Credit Company Payment,FALSE
+A002,20/7/2024,"  2,549,174.41 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A011,14/8/2024,"  8,347,625.19 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A026,6/9/2024,"  8,149,768.11 ",FALSE,Withdrawal,Operational Cost,TRUE
+A006,6/9/2024,"  6,499,176.59 ",FALSE,Deposit,Customer Payment,FALSE
+A032,18/7/2024,"  8,139,243.28 ",FALSE,Deposit,Credit Company Payment,TRUE
+A013,22/9/2024,"  5,803,388.44 ",FALSE,Deposit,Credit Company Payment,FALSE
+A031,2/8/2024,"  5,671,799.06 ",FALSE,Deposit,Customer Payment,FALSE
+A036,22/7/2024,"  8,820,998.57 ",FALSE,Deposit,Credit Company Payment,TRUE
+A030,14/8/2024,"  7,963,019.03 ",FALSE,Withdrawal,Refund,FALSE
+A017,9/8/2024,"  5,448,729.59 ",FALSE,Deposit,Credit Company Payment,FALSE
+A023,10/8/2024,"  3,289,112.23 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A010,20/9/2024,"  4,963,355.11 ",FALSE,Withdrawal,Refund,FALSE
+A005,29/8/2024,"  7,709,470.53 ",FALSE,Deposit,Customer Payment,FALSE
+A014,19/8/2024,"  7,062,992.60 ",TRUE,Deposit,Credit Company Payment,FALSE
+A027,30/9/2024,"  8,125,639.84 ",FALSE,Withdrawal,Supplier Payment,TRUE
+A030,10/7/2024,"  2,007,208.01 ",FALSE,Deposit,Government Subsidy,FALSE
+A033,3/8/2024,"  7,559,660.51 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A012,13/8/2024,"  4,822,865.57 ",FALSE,Withdrawal,Operational Cost,FALSE
+A031,21/8/2024,"  5,587,473.30 ",FALSE,Deposit,Credit Company Payment,FALSE
+A036,13/9/2024,"  5,714,843.86 ",FALSE,Deposit,Credit Company Payment,FALSE
+A023,15/8/2024,"  3,822,740.68 ",FALSE,Withdrawal,Refund,FALSE
+A016,24/8/2024,"  4,909,629.30 ",FALSE,Withdrawal,Refund,FALSE
+A018,8/9/2024,"  11,322,577.76 ",FALSE,Deposit,Credit Company Payment,TRUE
+A031,3/7/2024,"  8,757,694.94 ",FALSE,Deposit,Credit Company Payment,TRUE
+A029,19/7/2024,"  6,119,298.26 ",FALSE,Deposit,Credit Company Payment,FALSE
+A006,16/7/2024,"  3,699,467.50 ",FALSE,Withdrawal,Refund,FALSE
+A030,1/7/2024,"  5,480,743.00 ",TRUE,Deposit,Credit Company Payment,FALSE
+A018,12/9/2024,"  9,143,756.03 ",FALSE,Deposit,Government Subsidy,TRUE
+A022,6/8/2024,"  6,101,427.78 ",FALSE,Deposit,Credit Company Payment,FALSE
+A019,20/8/2024,"  5,269,049.84 ",FALSE,Deposit,Government Subsidy,FALSE
+A018,15/7/2024,"  7,379,989.72 ",FALSE,Deposit,Credit Company Payment,FALSE
+A018,28/9/2024,"  13,567,578.25 ",FALSE,Deposit,Customer Payment,TRUE
+A010,29/8/2024,"  2,917,793.37 ",FALSE,Withdrawal,Supplier Payment,FALSE
+A032,8/7/2024,"  8,759,652.59 ",FALSE,Deposit,Customer Payment,TRUE
+A017,9/8/2024,"  4,881,012.47 ",FALSE,Deposit,Credit Company Payment,FALSE
+A012,9/9/2024,"  3,739,109.29 ",FALSE,Withdrawal,Operational Cost,FALSE
+A003,20/8/2024,"  9,086,086.56 ",FALSE,Withdrawal,Operational Cost,TRUE
+A005,3/9/2024,"  1,146,744.76 ",FALSE,Withdrawal,Refund,FALSE
+A009,29/9/2024,"  3,405,137.24 ",FALSE,Deposit,Customer Payment,FALSE
+A024,16/9/2024,"  3,019,596.49 ",FALSE,Deposit,Credit Company Payment,FALSE
+A010,29/9/2024,"  6,224,665.32 ",FALSE,Withdrawal,Refund,FALSE
+A028,14/9/2024,"  5,108,200.43 ",FALSE,Withdrawal,Refund,FALSE
+A023,2/7/2024,"  5,842,011.98 ",FALSE,Withdrawal,Refund,FALSE
+A012,6/8/2024,"  6,176,269.29 ",FALSE,Deposit,Customer Payment,FALSE
+A031,26/9/2024,"  6,114,548.33 ",FALSE,Deposit,Credit Company Payment,FALSE
+A025,18/9/2024,"  7,804,073.96 ",FALSE,Withdrawal,Operational Cost,FALSE
+A029,26/9/2024,"  10,145,168.01 ",FALSE,Withdrawal,Operational Cost,TRUE

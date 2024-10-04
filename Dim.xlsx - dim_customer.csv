@@ -1,0 +1,101 @@
+CustomerID,CustomerName,PhoneNumber,Email,Address,CustomerType
+1,PD Dabukke (Persero) Tbk,8153235767,marketing.team@dabukke.co.id,"Jl. KH Amin Jasuta No. 890, Banjarbaru, Kalimantan Selatan 70733",Fleet
+2,UD Anggriawan,8580771816,marketing.team@anggriawan.co.id,"Jalan Suryakencana No. 21, Pekalongan, Jawa Tengah 51173",Fleet
+3,Ian Lestari,8557955725,ian.lestari@gmail.com,"Jl. Pelajar Pejuang No. 29, Jayapura, Papua 99351",Retail
+4,Jail Sihombing,8564994079,jail.sihombing@gmail.com,"Jl. Antapani Lama No. 2, Malang, Jawa Timur 65181",Retail
+5,PT Permadi (Persero) Tbk,8867436195,marketing.team@permadi.co.id,"Jalan Dr. Djunjunan No. 53, Semarang, Jawa Tengah 50661",Fleet
+6,Surya Maulana,8335059139,surya.maulana@gmail.com,"Jl. Pasteur No. 18, Bau Bau, Sulawesi Tenggara 93727",Retail
+7,"Rangga Zulkarnain, S.Gz",8137028195,rangga.zulkarnain.sgz@gmail.com,"Gang Otto Iskandardinata No. 9, Pontianak, Kalimantan Barat 78121",Retail
+8,Oliva Farida,8188281304,oliva.farida@gmail.com,"Jl. Jamika No. 935, Surabaya, Jawa Timur 60286",Retail
+9,"Drs. Simon Usada, M.Ak",8832615144,drs.simon.usada.mak@gmail.com,"Gang K.H. Wahid Hasyim No. 9, Pontianak, Kalimantan Barat 78124",Retail
+10,CV Firmansyah (Persero) Tbk,8338453714,marketing.team@firmansyah.co.id,"Gang Kiaracondong No. 01, Singkawang, Kalimantan Barat 79251",Fleet
+11,"Drs. Harimurti Budiyanto, S.T.",8329944996,drs.harimurti.budiyanto.st@gmail.com,"Gang Dipenogoro No. 9, Cimahi, Jawa Barat 40521",Retail
+12,CV Winarsih Nurdiyanti,8890100940,marketing.team@winarsih.co.id,"Gang Raya Ujungberung No. 7, Balikpapan, Kalimantan Timur 76131",Fleet
+13,"Asmianto Namaga, S.Pd",8310184690,asmianto.namaga.spd@gmail.com,"Gg. Jend. Sudirman No. 838, Singkawang, Kalimantan Barat 79114",Retail
+14,PD Hidayanto Utami (Persero) Tbk,8237201630,marketing.team@hidayanto.co.id,"Jalan Setiabudhi No. 151, Bima, Nusa Tenggara Barat 84163",Fleet
+15,Septi Adriansyah,8840431151,septi.adriansyah@gmail.com,"Jl. Merdeka No. 85, Surakarta, Jawa Tengah 57114",Retail
+16,"Drs. Cici Samosir, M.TI.",8384986987,drs.cici.samosir.mti@gmail.com,"Gang Dipenogoro No. 035, Samarinda, Kalimantan Timur 75124",Retail
+17,"Rina Mansur, M.Ak",8563790431,rina.mansur.mak@gmail.com,"Gang Soekarno Hatta No. 304, Lubuklinggau, Sumatera Selatan 31611",Retail
+18,PT Wahyuni,8145132940,marketing.team@wahyuni.co.id,"Gang Cihampelas No. 25, Bitung, Sulawesi Utara 95526",Fleet
+19,Usman Suwarno,8233181162,usman.suwarno@gmail.com,"Jalan Erlangga No. 7, Manado, Sulawesi Utara 95231",Retail
+20,"Raisa Hariyah, S.T.",8136650511,raisa.hariyah.st@gmail.com,"Gg. Jamika No. 882, Mojokerto, Jawa Timur 61382",Retail
+21,"Drs. Iriana Santoso, M.Farm",8988004637,drs.iriana.santoso.mfarm@gmail.com,"Jalan Medokan Ayu No. 517, Manado, Sulawesi Utara 95115",Retail
+22,"Hasna Wacana, S.E.I",8974485036,hasna.wacana.sei@gmail.com,"Jl. Bangka Raya No. 360, Balikpapan, Kalimantan Timur 76133",Retail
+23,Rahmi Nasyiah,8824572025,rahmi.nasyiah@gmail.com,"Jl. Wonoayu No. 1, Bitung, Sulawesi Utara 95537",Retail
+24,Dewi Kusmawati,8211384717,dewi.kusmawati@gmail.com,"Gang Surapati No. 28, Madiun, Jawa Timur 63152",Retail
+25,CV Hartati (Persero) Tbk,8219384985,marketing.team@hartati.co.id,"Jalan Surapati No. 25, Sibolga, Sumatera Utara 22533",Fleet
+26,Mutia Halimah,8577470311,mutia.halimah@gmail.com,"Gang Sukajadi No. 849, Balikpapan, Kalimantan Timur 76133",Retail
+27,Perum Yuliarti (Persero) Tbk,8537623467,marketing.team@yuliarti.co.id,"Gang Rajawali Timur No. 15, Tasikmalaya, Jawa Barat 46198",Fleet
+28,CV Sitompul Tbk,8598538910,marketing.team@sitompul.co.id,"Jl. Siliwangi No. 398, Banyumas, Jawa Tengah 53113",Fleet
+29,"H. Mursinin Anggraini, S.IP",8535563791,h.mursinin.anggraini.sip@gmail.com,"Jalan Veteran No. 09, Ternate, Maluku Utara 97747",Retail
+30,CV Wasita,8129739771,marketing.team@wasita.co.id,"Jl. Moch. Toha No. 030, Kupang, Nusa Tenggara Timur 85365",Fleet
+31,"Yusuf Marpaung, S.Psi",8562757809,yusuf.marpaung.spsi@gmail.com,"Jl. Jamika No. 74, Gorontalo, Gorontalo 96241",Retail
+32,PD Anggriawan,8572953227,marketing.team@anggriawan.co.id,"Gg. BKR No. 424, Pangkal Pinang, Kepulauan Bangka Belitung 33149",Fleet
+33,"H. Cahya Widiastuti, M.TI.",8513853793,h.cahya.widiastuti.mti@gmail.com,"Jl. Raya Setiabudhi No. 498, Lubuklinggau, Sumatera Selatan 31611",Retail
+34,"Wirda Firmansyah, M.Kom.",8977919883,wirda.firmansyah.mkom@gmail.com,"Jalan Cikapayang No. 823, Pangkal Pinang, Kepulauan Bangka Belitung 33123",Retail
+35,Yulia Thamrin,8877440615,yulia.thamrin@gmail.com,"Jalan Ronggowarsito No. 3, Samarinda, Kalimantan Timur 75124",Retail
+36,"Asman Wibowo, M.TI.",8581001065,asman.wibowo.mti@gmail.com,"Gang Rungkut Industri No. 1, Palu, Sulawesi Tengah 94142",Retail
+37,Perum Lazuardi (Persero) Tbk,8857310690,marketing.team@lazuardi.co.id,"Jalan Cikutra Barat No. 2, Muaro Jambi, Jambi 36366",Fleet
+38,"Lanjar Samosir, S.IP",8961488376,lanjar.samosir.sip@gmail.com,"Gang M.T Haryono No. 982, Palopo, Sulawesi Selatan 91922",Retail
+39,PT Saptono Rajasa (Persero) Tbk,8983993878,marketing.team@saptono.co.id,"Jalan M.T Haryono No. 3, Bukittinggi, Sumatera Barat 26131",Fleet
+40,R. Usyi Maheswara,8333407920,r.usyi.maheswara@gmail.com,"Gg. Medokan Ayu No. 4, Kerinci, Jambi 37172",Retail
+41,CV Irawan Tbk,8114076687,marketing.team@irawan.co.id,"Gg. Jakarta No. 980, Ternate, Maluku Utara 97747",Fleet
+42,PT Budiyanto Siregar,8213429434,marketing.team@budiyanto.co.id,"Jalan Monginsidi No. 4, Palembang, Sumatera Selatan 30117",Fleet
+43,PT Palastri Wastuti (Persero) Tbk,8531842860,marketing.team@palastri.co.id,"Jl. Gedebage Selatan No. 15, Kota Administrasi Jakarta Timur, DKI Jakarta 13530",Fleet
+44,"Salsabila Zulkarnain, M.TI.",8878094489,salsabila.zulkarnain.mti@gmail.com,"Gg. Cihampelas No. 11, Binjai, Sumatera Utara 20719",Retail
+45,Cagak Wulandari,8384055761,cagak.wulandari@gmail.com,"Jl. Ciwastra No. 085, Tasikmalaya, Jawa Barat 46122",Retail
+46,Endra Iswahyudi,8783815249,endra.iswahyudi@gmail.com,"Gang Raya Ujungberung No. 53, Solok, Sumatera Barat 27779",Retail
+47,Prima Latupono,8174033839,prima.latupono@gmail.com,"Jalan Medokan Ayu No. 35, Muaro Jambi, Jambi 36366",Retail
+48,"H. Danuja Wacana, S.Kom",8179968220,h.danuja.wacana.skom@gmail.com,"Jl. Sentot Alibasa No. 508, Kotamobagu, Sulawesi Utara 95713",Retail
+49,PD Jailani Natsir,8320264165,marketing.team@jailani.co.id,"Jl. Setiabudhi No. 915, Padangsidimpuan, Sumatera Utara 22731",Fleet
+50,Viman Adriansyah,8857014043,viman.adriansyah@gmail.com,"Jalan Raya Ujungberung No. 34, Kendari, Sulawesi Tenggara 93234",Retail
+51,"Tgk. Gandi Anggraini, S.Psi",8588237418,tgk.gandi.anggraini.spsi@gmail.com,"Gg. Wonoayu No. 96, Kupang, Nusa Tenggara Timur 85365",Retail
+52,Rina Agustina,8524031167,rina.agustina@gmail.com,"Jalan Gardujati No. 1, Payakumbuh, Sumatera Barat 26235",Retail
+53,CV Pradipta Wahyuni,8381050705,marketing.team@pradipta.co.id,"Gg. R.E Martadinata No. 32, Tanjung Pinang, Kepulauan Riau 29122",Fleet
+54,Icha Hastuti,8180607866,icha.hastuti@gmail.com,"Jalan Cikutra Barat No. 2, Tebing Tinggi, Sumatera Utara 20615",Retail
+55,Atmaja Yuliarti,8517501727,atmaja.yuliarti@gmail.com,"Jalan Jend. A. Yani No. 54, Sukabumi, Jawa Barat 43161",Retail
+56,"Silvia Sitompul, M.Ak",8236598934,silvia.sitompul.mak@gmail.com,"Jl. S. Parman No. 171, Jambi, Jambi 36251",Retail
+57,Perum Halim Prayoga (Persero) Tbk,8525200733,marketing.team@halim.co.id,"Gg. Kutai No. 488, Langsa, Aceh 24410",Fleet
+58,PD Pradana Tbk,8155488659,marketing.team@pradana.co.id,"Jalan Ir. H. Djuanda No. 41, Cirebon, Jawa Barat 45151",Fleet
+59,UD Sihotang Mangunsong,8867164910,marketing.team@sihotang.co.id,"Gang Tubagus Ismail No. 712, Banjarmasin, Kalimantan Selatan 70126",Fleet
+60,"Tgk. Vivi Hariyah, S.Pd",8191447391,tgk.vivi.hariyah.spd@gmail.com,"Gg. Cikutra Barat No. 35, Tegal, Jawa Tengah 41060",Retail
+61,Perum Hutagalung Tbk,8163957321,marketing.team@hutagalung.co.id,"Gg. Soekarno Hatta No. 20, Payakumbuh, Sumatera Barat 26235",Fleet
+62,Perum Wastuti (Persero) Tbk,8965329307,marketing.team@wastuti.co.id,"Jalan Ahmad Dahlan No. 18, Kota Administrasi Jakarta Pusat, DKI Jakarta 10510",Fleet
+63,Perum Nababan Pradana Tbk,8893885133,marketing.team@nababan.co.id,"Gg. Surapati No. 3, Balikpapan, Kalimantan Timur 76114",Fleet
+64,Nyoman Firgantoro,8598093444,nyoman.firgantoro@gmail.com,"Gang Sukabumi No. 15, Kediri, Jawa Timur 64156",Retail
+65,UD Maulana Kurniawan,8972562567,marketing.team@maulana.co.id,"Gang Kutai No. 87, Tomohon, Sulawesi Utara 95418",Fleet
+66,Perum Haryanto,8512602438,marketing.team@haryanto.co.id,"Jalan Pasir Koja No. 94, Serang, Banten 42445",Fleet
+67,UD Manullang,8983580335,marketing.team@manullang.co.id,"Gang Merdeka No. 451, Dumai, Riau 28882",Fleet
+68,CV Widiastuti Mulyani,8168714676,marketing.team@widiastuti.co.id,"Jalan Sadang Serang No. 1, Jayapura, Papua 99321",Fleet
+69,Queen Fujiati,8864179931,queen.fujiati@gmail.com,"Jalan Raya Setiabudhi No. 67, Tebing Tinggi, Sumatera Utara 20614",Retail
+70,UD Hassanah Hasanah,8332266688,marketing.team@hassanah.co.id,"Gg. Cikapayang No. 8, Manado, Sulawesi Utara 95232",Fleet
+71,PT Handayani Maheswara Tbk,8816469647,marketing.team@handayani.co.id,"Jalan Jakarta No. 167, Sibolga, Sumatera Utara 22533",Fleet
+72,"Puti Gawati Sitorus, M.Farm",8882450745,puti.gawati.sitorus.mfarm@gmail.com,"Gg. Suniaraja No. 537, Bogor, Jawa Barat 16841",Retail
+73,Atmaja Halim,8820248540,atmaja.halim@gmail.com,"Gang Tebet Barat Dalam No. 966, Sungai Penuh, Jambi 37111",Retail
+74,PT Winarsih Simanjuntak,8335021286,marketing.team@winarsih.co.id,"Gang Gardujati No. 94, Padang, Sumatera Barat 25217",Fleet
+75,Maimunah Narpati,8537608252,maimunah.narpati@gmail.com,"Jl. Medokan Ayu No. 103, Lhokseumawe, Aceh 24351",Retail
+76,Aisyah Ramadan,8318353690,aisyah.ramadan@gmail.com,"Gang Cikutra Barat No. 54, Sibolga, Sumatera Utara 22533",Retail
+77,"KH. Capa Wibisono, S.E.I",8510695551,kh.capa.wibisono.sei@gmail.com,"Gg. Kiaracondong No. 1, Bukittinggi, Sumatera Barat 26131",Retail
+78,UD Yuniar Setiawan (Persero) Tbk,8988238447,marketing.team@yuniar.co.id,"Jl. Tubagus Ismail No. 524, Pontianak, Kalimantan Barat 78123",Fleet
+79,PD Marpaung Melani Tbk,8510068232,marketing.team@marpaung.co.id,"Gg. Jamika No. 6, Banjarmasin, Kalimantan Selatan 70126",Fleet
+80,CV Aryani Pradana,8317750292,marketing.team@aryani.co.id,"Jalan Monginsidi No. 623, Padangsidimpuan, Sumatera Utara 22732",Fleet
+81,Kamidin Wahyudin,8211360533,kamidin.wahyudin@gmail.com,"Gang Ciumbuleuit No. 98, Binjai, Sumatera Utara 20718",Retail
+82,Perum Siregar,8781775181,marketing.team@siregar.co.id,"Gang M.T Haryono No. 7, Bontang, Kalimantan Timur 75311",Fleet
+83,Perum Maulana,8966238781,marketing.team@maulana.co.id,"Jl. Moch. Toha No. 684, Solok, Sumatera Barat 27780",Fleet
+84,UD Irawan Widiastuti,8172667974,marketing.team@irawan.co.id,"Gang Suniaraja No. 6, Kota Administrasi Jakarta Utara, DKI Jakarta 14430",Fleet
+85,UD Puspasari Mayasari,8964355046,marketing.team@puspasari.co.id,"Jalan Pasirkoja No. 9, Banjarmasin, Kalimantan Selatan 70126",Fleet
+86,Dinda Mandasari,8821415996,dinda.mandasari@gmail.com,"Jalan Erlangga No. 472, Banjar, Kalimantan Selatan 70617",Retail
+87,Safina Zulaika,8559111381,safina.zulaika@gmail.com,"Gg. Pelajar Pejuang No. 6, Bandar Lampung,Lampung 35238",Retail
+88,Gilda Aryani,8516967470,gilda.aryani@gmail.com,"Gang Cempaka No. 99, Palembang, Sumatera Selatan 30117",Retail
+89,Kajen Zulaika,8332555212,kajen.zulaika@gmail.com,"Jalan KH Amin Jasuta No. 7, Serang, Banten 42444",Retail
+90,Prayoga Siregar,8137905021,prayoga.siregar@gmail.com,"Gang KH Amin Jasuta No. 7, Batam, Kepulauan Riau 29483",Retail
+91,CV Budiyanto,8188599971,marketing.team@budiyanto.co.id,"Jalan Suniaraja No. 597, Kota Administrasi Jakarta Pusat, DKI Jakarta 10210",Fleet
+92,PD Nashiruddin (Persero) Tbk,8152745229,marketing.team@nashiruddin.co.id,"Jalan Raya Ujungberung No. 35, Makassar, Sulawesi Selatan 90234",Fleet
+93,Betania Anggraini,8566288087,betania.anggraini@gmail.com,"Jl. Kiaracondong No. 1, Kediri, Jawa Timur 64291",Retail
+94,CV Situmorang Mandasari (Persero) Tbk,8595331581,marketing.team@situmorang.co.id,"Jalan Erlangga No. 2, Medan, Sumatera Utara 20229",Fleet
+95,"dr. Ulva Sihombing, S.I.Kom",8869510968,dr.ulva.sihombing.sikom@gmail.com,"Gang Pacuan Kuda No. 97, Padang Panjang, Sumatera Barat 27114",Retail
+96,CV Andriani (Persero) Tbk,8141189425,marketing.team@andriani.co.id,"Gang Cikapayang No. 2, Bogor, Jawa Barat 16128",Fleet
+97,Puti Sirait,8383389885,puti.sirait@gmail.com,"Gang Cempaka No. 7, Tangerang Selatan, Banten 15411",Retail
+98,"Dt. Johan Manullang, S.I.Kom",8568043702,dt.johan.manullang.sikom@gmail.com,"Gang Astana Anyar No. 6, Binjai, Sumatera Utara 20719",Retail
+99,PD Hardiansyah (Persero) Tbk,8599492218,marketing.team@hardiansyah.co.id,"Jl. Joyoboyo No. 31, Cilegon, Banten 42441",Fleet
+100,"Dt. Ozy Mandala, M.Ak",8229826947,dt.ozy.mandala.mak@gmail.com,"Jalan Astana Anyar No. 6, Kupang, Nusa Tenggara Timur 85365",Retail
